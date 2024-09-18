@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "b3287cc9-c0c8-4939-96d8-31efd376f189")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)
@@ -7287,126 +7287,6 @@
 				)
 			)
 		)
-		(symbol "power:VDD"
-			(power)
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "VDD"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"VDD\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VDD_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "VDD_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:VPP"
 			(power)
 			(pin_numbers hide)
@@ -7529,13 +7409,13 @@
 		)
 	)
 	(junction
-		(at 257.81 21.59)
+		(at 288.29 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "029e5fb1-0a27-44a0-8677-d70ace960fbf")
 	)
 	(junction
-		(at 250.19 21.59)
+		(at 280.67 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "052477e3-309f-4eeb-9edb-494d401c0117")
@@ -7565,31 +7445,31 @@
 		(uuid "07f0cbe8-6e1a-46fd-a553-f7029b69905f")
 	)
 	(junction
-		(at 246.38 63.5)
+		(at 276.86 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0803123c-03ea-4f72-84e8-24cbf442580d")
 	)
 	(junction
-		(at 246.38 73.66)
+		(at 276.86 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c4209a2-e24b-427a-b36a-18f19e029786")
 	)
 	(junction
-		(at 246.38 48.26)
+		(at 276.86 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d59a3a9-2490-410c-b7b8-912272189a9e")
 	)
 	(junction
-		(at 254 44.45)
+		(at 284.48 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "158f7980-4e1a-4c0a-8dcc-3698fe6bef45")
 	)
 	(junction
-		(at 246.38 81.28)
+		(at 276.86 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15c22005-937a-4f6f-910e-daf5edc42e70")
@@ -7631,7 +7511,7 @@
 		(uuid "30ec96a3-2853-4d89-9615-ef109853188f")
 	)
 	(junction
-		(at 246.38 50.8)
+		(at 276.86 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32620c56-562d-416b-a7f4-8c2f5be1df00")
@@ -7643,7 +7523,7 @@
 		(uuid "348fc3a7-3f44-45b2-8c46-3d94aea52a6a")
 	)
 	(junction
-		(at 274.32 35.56)
+		(at 304.8 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41869989-7e9a-4ad8-a6a0-80f835760654")
@@ -7655,7 +7535,7 @@
 		(uuid "4378d9d9-f0b5-47fc-91bd-a014103a44e5")
 	)
 	(junction
-		(at 246.38 83.82)
+		(at 276.86 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "442718b1-9aaf-4a22-80e7-72d381ae18c2")
@@ -7685,13 +7565,13 @@
 		(uuid "61e80a62-d388-4b9c-8e8c-02c256e80af7")
 	)
 	(junction
-		(at 271.78 33.02)
+		(at 302.26 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65769758-03ed-48ee-bac3-c9d0ecafd3dd")
 	)
 	(junction
-		(at 246.38 46.99)
+		(at 276.86 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65d49187-3d00-4b72-8566-546fc1fec5db")
@@ -7709,25 +7589,25 @@
 		(uuid "76f88900-1a7b-45ad-996a-6d987348b9f6")
 	)
 	(junction
-		(at 246.38 78.74)
+		(at 276.86 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7800d8ae-2fa8-488f-82c0-f5cdb4b542c5")
 	)
 	(junction
-		(at 245.11 43.18)
+		(at 275.59 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78ebcf8c-fe72-4f17-9765-1eb3aaf900f6")
 	)
 	(junction
-		(at 246.38 76.2)
+		(at 276.86 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7caf34a9-5148-4592-9926-8db176d1d3ec")
 	)
 	(junction
-		(at 245.11 40.64)
+		(at 275.59 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f0fd70c-3588-42bc-ba0e-7f87bc2e6da3")
@@ -7745,7 +7625,7 @@
 		(uuid "8a13dfd9-b01e-4fd3-8fe0-cd66f2ac6862")
 	)
 	(junction
-		(at 278.13 38.1)
+		(at 308.61 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8a9fb073-fab6-475b-a840-e28760acf4c3")
@@ -7763,7 +7643,7 @@
 		(uuid "9a77ad3f-36af-4def-944a-bc17294fae85")
 	)
 	(junction
-		(at 254 52.07)
+		(at 284.48 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a64defcd-24d9-4f02-8c15-6cdebd5ed9e8")
@@ -7775,13 +7655,13 @@
 		(uuid "a743d0b7-8522-47f7-9c31-a8ee6b3995c0")
 	)
 	(junction
-		(at 260.35 44.45)
+		(at 290.83 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1939f46-d62f-4c57-8418-c54fadd594b9")
 	)
 	(junction
-		(at 246.38 86.36)
+		(at 276.86 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6ac02ba-cf3c-4f83-9cae-32b00d4b65ab")
@@ -7811,19 +7691,19 @@
 		(uuid "d8a7143d-f0d1-4dff-a47e-bc26d8f27ed1")
 	)
 	(junction
-		(at 246.38 66.04)
+		(at 276.86 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dba8d992-3765-4c70-8f89-95b22ad298a0")
 	)
 	(junction
-		(at 250.19 29.21)
+		(at 280.67 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc8d3a49-06c5-47e9-98e3-3f2d5b1549fc")
 	)
 	(junction
-		(at 246.38 53.34)
+		(at 276.86 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4f6104a-efdb-4c9d-8570-c6722c71e375")
@@ -7884,7 +7764,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 66.04) (xy 246.38 66.04)
+			(xy 275.59 73.66) (xy 276.86 73.66)
 		)
 		(stroke
 			(width 0)
@@ -7894,7 +7774,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 38.1) (xy 278.13 35.56)
+			(xy 308.61 45.72) (xy 308.61 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7944,7 +7824,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 29.21) (xy 246.38 39.37)
+			(xy 276.86 36.83) (xy 276.86 46.99)
 		)
 		(stroke
 			(width 0)
@@ -7964,7 +7844,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 86.36) (xy 246.38 86.36)
+			(xy 275.59 93.98) (xy 276.86 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7974,7 +7854,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 76.2) (xy 246.38 73.66)
+			(xy 276.86 83.82) (xy 276.86 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7984,7 +7864,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 63.5) (xy 246.38 53.34)
+			(xy 276.86 71.12) (xy 276.86 60.96)
 		)
 		(stroke
 			(width 0)
@@ -8004,7 +7884,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 55.88) (xy 264.16 55.88)
+			(xy 275.59 63.5) (xy 294.64 63.5)
 		)
 		(stroke
 			(width 0)
@@ -8014,7 +7894,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 38.1) (xy 278.13 40.64)
+			(xy 308.61 45.72) (xy 308.61 48.26)
 		)
 		(stroke
 			(width 0)
@@ -8074,7 +7954,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 30.48) (xy 261.62 30.48)
+			(xy 275.59 38.1) (xy 292.1 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8124,7 +8004,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 78.74) (xy 246.38 76.2)
+			(xy 276.86 86.36) (xy 276.86 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8184,7 +8064,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 81.28) (xy 246.38 81.28)
+			(xy 275.59 88.9) (xy 276.86 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8194,7 +8074,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 39.37) (xy 245.11 39.37)
+			(xy 276.86 46.99) (xy 275.59 46.99)
 		)
 		(stroke
 			(width 0)
@@ -8214,7 +8094,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 50.8) (xy 246.38 50.8)
+			(xy 275.59 58.42) (xy 276.86 58.42)
 		)
 		(stroke
 			(width 0)
@@ -8234,7 +8114,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 71.12) (xy 264.16 71.12)
+			(xy 275.59 78.74) (xy 294.64 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8244,7 +8124,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 53.34) (xy 246.38 53.34)
+			(xy 275.59 60.96) (xy 276.86 60.96)
 		)
 		(stroke
 			(width 0)
@@ -8254,7 +8134,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 35.56) (xy 274.32 33.02)
+			(xy 304.8 43.18) (xy 304.8 40.64)
 		)
 		(stroke
 			(width 0)
@@ -8264,7 +8144,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 63.5) (xy 246.38 63.5)
+			(xy 275.59 71.12) (xy 276.86 71.12)
 		)
 		(stroke
 			(width 0)
@@ -8294,7 +8174,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 29.21) (xy 257.81 29.21)
+			(xy 280.67 36.83) (xy 288.29 36.83)
 		)
 		(stroke
 			(width 0)
@@ -8304,7 +8184,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 83.82) (xy 246.38 83.82)
+			(xy 275.59 91.44) (xy 276.86 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8314,7 +8194,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 58.42) (xy 264.16 58.42)
+			(xy 275.59 66.04) (xy 294.64 66.04)
 		)
 		(stroke
 			(width 0)
@@ -8324,7 +8204,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 83.82) (xy 246.38 81.28)
+			(xy 276.86 91.44) (xy 276.86 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8334,7 +8214,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 44.45) (xy 254 44.45)
+			(xy 275.59 52.07) (xy 284.48 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8354,7 +8234,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 21.59) (xy 257.81 21.59)
+			(xy 280.67 29.21) (xy 288.29 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8364,7 +8244,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 21.59) (xy 250.19 21.59)
+			(xy 275.59 29.21) (xy 280.67 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8374,7 +8254,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 86.36) (xy 246.38 90.17)
+			(xy 276.86 93.98) (xy 276.86 97.79)
 		)
 		(stroke
 			(width 0)
@@ -8384,7 +8264,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 48.26) (xy 246.38 46.99)
+			(xy 276.86 55.88) (xy 276.86 54.61)
 		)
 		(stroke
 			(width 0)
@@ -8414,7 +8294,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 52.07) (xy 250.19 46.99)
+			(xy 280.67 59.69) (xy 280.67 54.61)
 		)
 		(stroke
 			(width 0)
@@ -8474,7 +8354,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 86.36) (xy 246.38 83.82)
+			(xy 276.86 93.98) (xy 276.86 91.44)
 		)
 		(stroke
 			(width 0)
@@ -8484,7 +8364,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 73.66) (xy 246.38 73.66)
+			(xy 275.59 81.28) (xy 276.86 81.28)
 		)
 		(stroke
 			(width 0)
@@ -8524,7 +8404,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 40.64) (xy 245.11 43.18)
+			(xy 275.59 48.26) (xy 275.59 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8534,7 +8414,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 44.45) (xy 260.35 44.45)
+			(xy 284.48 52.07) (xy 290.83 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8574,7 +8454,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 53.34) (xy 246.38 50.8)
+			(xy 276.86 60.96) (xy 276.86 58.42)
 		)
 		(stroke
 			(width 0)
@@ -8604,7 +8484,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 44.45) (xy 261.62 44.45)
+			(xy 290.83 52.07) (xy 299.72 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8624,7 +8504,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 21.59) (xy 270.51 21.59)
+			(xy 288.29 29.21) (xy 302.26 29.21)
 		)
 		(stroke
 			(width 0)
@@ -8704,7 +8584,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 46.99) (xy 246.38 43.18)
+			(xy 276.86 54.61) (xy 276.86 50.8)
 		)
 		(stroke
 			(width 0)
@@ -8714,7 +8594,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 73.66) (xy 246.38 66.04)
+			(xy 276.86 81.28) (xy 276.86 73.66)
 		)
 		(stroke
 			(width 0)
@@ -8774,7 +8654,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 40.64) (xy 278.13 40.64)
+			(xy 275.59 48.26) (xy 308.61 48.26)
 		)
 		(stroke
 			(width 0)
@@ -8794,7 +8674,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 78.74) (xy 246.38 78.74)
+			(xy 275.59 86.36) (xy 276.86 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8804,7 +8684,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 38.1) (xy 270.51 38.1)
+			(xy 275.59 45.72) (xy 300.99 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8874,7 +8754,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 52.07) (xy 250.19 52.07)
+			(xy 284.48 59.69) (xy 280.67 59.69)
 		)
 		(stroke
 			(width 0)
@@ -8904,7 +8784,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 33.02) (xy 264.16 33.02)
+			(xy 275.59 40.64) (xy 294.64 40.64)
 		)
 		(stroke
 			(width 0)
@@ -8974,7 +8854,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 50.8) (xy 246.38 48.26)
+			(xy 276.86 58.42) (xy 276.86 55.88)
 		)
 		(stroke
 			(width 0)
@@ -8984,7 +8864,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 52.07) (xy 260.35 52.07)
+			(xy 284.48 59.69) (xy 290.83 59.69)
 		)
 		(stroke
 			(width 0)
@@ -9004,7 +8884,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 35.56) (xy 266.7 35.56)
+			(xy 275.59 43.18) (xy 297.18 43.18)
 		)
 		(stroke
 			(width 0)
@@ -9034,7 +8914,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 43.18) (xy 245.11 43.18)
+			(xy 276.86 50.8) (xy 275.59 50.8)
 		)
 		(stroke
 			(width 0)
@@ -9044,7 +8924,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 46.99) (xy 246.38 46.99)
+			(xy 280.67 54.61) (xy 276.86 54.61)
 		)
 		(stroke
 			(width 0)
@@ -9054,7 +8934,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 60.96) (xy 264.16 60.96)
+			(xy 275.59 68.58) (xy 294.64 68.58)
 		)
 		(stroke
 			(width 0)
@@ -9074,7 +8954,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 30.48) (xy 271.78 30.48)
+			(xy 299.72 38.1) (xy 302.26 38.1)
 		)
 		(stroke
 			(width 0)
@@ -9094,7 +8974,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 29.21) (xy 246.38 29.21)
+			(xy 280.67 36.83) (xy 276.86 36.83)
 		)
 		(stroke
 			(width 0)
@@ -9104,7 +8984,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 68.58) (xy 264.16 68.58)
+			(xy 275.59 76.2) (xy 294.64 76.2)
 		)
 		(stroke
 			(width 0)
@@ -9114,7 +8994,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 33.02) (xy 271.78 33.02)
+			(xy 304.8 40.64) (xy 302.26 40.64)
 		)
 		(stroke
 			(width 0)
@@ -9144,7 +9024,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 66.04) (xy 246.38 63.5)
+			(xy 276.86 73.66) (xy 276.86 71.12)
 		)
 		(stroke
 			(width 0)
@@ -9154,7 +9034,7 @@
 	)
 	(wire
 		(pts
-			(xy 278.13 35.56) (xy 274.32 35.56)
+			(xy 308.61 43.18) (xy 304.8 43.18)
 		)
 		(stroke
 			(width 0)
@@ -9214,7 +9094,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 78.74) (xy 246.38 81.28)
+			(xy 276.86 86.36) (xy 276.86 88.9)
 		)
 		(stroke
 			(width 0)
@@ -9234,7 +9114,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 39.37) (xy 245.11 40.64)
+			(xy 275.59 46.99) (xy 275.59 48.26)
 		)
 		(stroke
 			(width 0)
@@ -9254,7 +9134,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 76.2) (xy 246.38 76.2)
+			(xy 275.59 83.82) (xy 276.86 83.82)
 		)
 		(stroke
 			(width 0)
@@ -9284,7 +9164,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 48.26) (xy 246.38 48.26)
+			(xy 275.59 55.88) (xy 276.86 55.88)
 		)
 		(stroke
 			(width 0)
@@ -9324,7 +9204,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 27.94) (xy 245.11 21.59)
+			(xy 275.59 35.56) (xy 275.59 29.21)
 		)
 		(stroke
 			(width 0)
@@ -9334,7 +9214,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 44.45) (xy 245.11 45.72)
+			(xy 275.59 52.07) (xy 275.59 53.34)
 		)
 		(stroke
 			(width 0)
@@ -9374,7 +9254,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 30.48) (xy 271.78 33.02)
+			(xy 302.26 38.1) (xy 302.26 40.64)
 		)
 		(stroke
 			(width 0)
@@ -9461,7 +9341,7 @@
 	)
 	(global_label "OLED_MOSI"
 		(shape input)
-		(at 264.16 71.12 0)
+		(at 294.64 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9471,7 +9351,7 @@
 		)
 		(uuid "04c769a4-3649-4951-978e-f683299bba27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.4866 71.12 0)
+			(at 307.9666 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10231,7 +10111,7 @@
 	)
 	(global_label "OLED_RES"
 		(shape input)
-		(at 264.16 58.42 0)
+		(at 294.64 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10241,7 +10121,7 @@
 		)
 		(uuid "704f9f99-cc67-4370-af68-c7b5972e4bdc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 276.5189 58.42 0)
+			(at 306.9989 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11067,7 +10947,7 @@
 	)
 	(global_label "OLED_DC"
 		(shape input)
-		(at 264.16 60.96 0)
+		(at 294.64 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11077,7 +10957,7 @@
 		)
 		(uuid "b3cbb30f-47da-4403-bdcb-4edda783ce40")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.4304 60.96 0)
+			(at 305.9104 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11287,7 +11167,7 @@
 	)
 	(global_label "OLED_CS"
 		(shape input)
-		(at 264.16 55.88 0)
+		(at 294.64 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11297,7 +11177,7 @@
 		)
 		(uuid "cb66c612-7ef0-4503-9be4-4e841caff8b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.3699 55.88 0)
+			(at 305.8499 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11309,7 +11189,7 @@
 	)
 	(global_label "OLED_SCL"
 		(shape input)
-		(at 264.16 68.58 0)
+		(at 294.64 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11319,7 +11199,7 @@
 		)
 		(uuid "d1668cc6-445c-47a2-9969-bc53599206dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 276.398 68.58 0)
+			(at 306.878 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11640,7 +11520,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 246.38 90.17 0)
+		(at 276.86 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11649,7 +11529,7 @@
 		(fields_autoplaced yes)
 		(uuid "027b7487-a808-41be-902e-4531e7ca51ec")
 		(property "Reference" "#PWR04"
-			(at 246.38 96.52 0)
+			(at 276.86 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11658,7 +11538,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 95.25 0)
+			(at 276.86 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11666,7 +11546,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 90.17 0)
+			(at 276.86 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11675,7 +11555,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 90.17 0)
+			(at 276.86 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11684,7 +11564,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 90.17 0)
+			(at 276.86 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11999,7 +11879,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:4.7uF_0603_35V_20%")
-		(at 257.81 25.4 0)
+		(at 288.29 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12008,7 +11888,7 @@
 		(fields_autoplaced yes)
 		(uuid "10f7b333-eac1-4362-b890-1cb76eaf0f48")
 		(property "Reference" "C4"
-			(at 261.62 21.5899 0)
+			(at 292.1 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12017,7 +11897,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 261.62 24.1299 0)
+			(at 292.1 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12026,7 +11906,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 257.81 36.83 0)
+			(at 288.29 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12035,7 +11915,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 257.81 41.91 0)
+			(at 288.29 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12044,7 +11924,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 257.81 44.45 0)
+			(at 288.29 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12053,7 +11933,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14106"
-			(at 257.81 39.37 0)
+			(at 288.29 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12062,7 +11942,7 @@
 			)
 		)
 		(property "Voltage" "35V"
-			(at 261.62 26.6699 0)
+			(at 292.1 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12071,7 +11951,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 261.62 29.2099 0)
+			(at 292.1 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12426,17 +12306,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VDD")
-		(at 261.62 44.45 270)
+		(lib_id "power:+3V3")
+		(at 299.72 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "20acacc1-e284-44b4-84a9-b8dbabd6eb14")
-		(property "Reference" "#PWR02"
-			(at 257.81 44.45 0)
+		(uuid "1f2de293-4ba1-41b9-ba07-b17ded1f3dc3")
+		(property "Reference" "#PWR052"
+			(at 295.91 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12444,8 +12324,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD"
-			(at 265.43 44.4499 90)
+		(property "Value" "+3V3"
+			(at 303.53 52.0699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12454,7 +12334,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 261.62 44.45 0)
+			(at 299.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12463,7 +12343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 44.45 0)
+			(at 299.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12471,8 +12351,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 261.62 44.45 0)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 299.72 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12481,12 +12361,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "6f86b72e-5a09-42d6-8177-9e91c2a2a41b")
+			(uuid "e68108ff-f332-4d60-a228-12a6a6e13a4d")
 		)
 		(instances
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "#PWR02")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -13869,7 +13749,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Resistor:560_0402")
-		(at 274.32 38.1 0)
+		(at 304.8 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13878,7 +13758,7 @@
 		(fields_autoplaced yes)
 		(uuid "474ef841-16b1-49a6-92bf-6a284f0ef6a0")
 		(property "Reference" "R1"
-			(at 274.32 31.75 0)
+			(at 304.8 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13886,7 +13766,7 @@
 			)
 		)
 		(property "Value" "560"
-			(at 274.32 34.29 0)
+			(at 304.8 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13894,7 +13774,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
-			(at 274.32 42.672 0)
+			(at 304.8 50.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13903,7 +13783,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 274.32 46.99 0)
+			(at 304.8 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13912,7 +13792,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 274.32 49.53 0)
+			(at 304.8 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13921,7 +13801,7 @@
 			)
 		)
 		(property "PROD_ID" "RES-13766"
-			(at 274.32 44.958 0)
+			(at 304.8 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15554,7 +15434,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:4.7uF_0603_35V_20%")
-		(at 270.51 35.56 90)
+		(at 300.99 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15563,7 +15443,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ccaa666-a7ae-4f9a-9fb1-9afbf8c040ef")
 		(property "Reference" "C7"
-			(at 270.51 22.86 90)
+			(at 300.99 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15571,7 +15451,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 270.51 25.4 90)
+			(at 300.99 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15579,7 +15459,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 281.94 35.56 0)
+			(at 312.42 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15588,7 +15468,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 287.02 35.56 0)
+			(at 317.5 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15597,7 +15477,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 289.56 35.56 0)
+			(at 320.04 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15606,7 +15486,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14106"
-			(at 284.48 35.56 0)
+			(at 314.96 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15615,7 +15495,7 @@
 			)
 		)
 		(property "Voltage" "35V"
-			(at 270.51 27.94 90)
+			(at 300.99 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15623,7 +15503,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 270.51 30.48 90)
+			(at 300.99 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16475,7 +16355,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:0.1uF_0603_25V_20%")
-		(at 250.19 25.4 0)
+		(at 280.67 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16484,7 +16364,7 @@
 		(fields_autoplaced yes)
 		(uuid "9158eee7-df3b-4889-bcde-196bf84b9411")
 		(property "Reference" "C3"
-			(at 254 21.5899 0)
+			(at 284.48 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16493,7 +16373,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 254 24.1299 0)
+			(at 284.48 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16502,7 +16382,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 250.19 36.83 0)
+			(at 280.67 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16511,7 +16391,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 250.19 39.37 0)
+			(at 280.67 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16520,7 +16400,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 250.19 44.45 0)
+			(at 280.67 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16529,7 +16409,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00810"
-			(at 250.19 41.91 0)
+			(at 280.67 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16538,7 +16418,7 @@
 			)
 		)
 		(property "Voltage" "25V"
-			(at 254 26.6699 0)
+			(at 284.48 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16547,7 +16427,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 254 29.2099 0)
+			(at 284.48 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17210,7 +17090,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:4.7uF_0603_35V_20%")
-		(at 260.35 48.26 0)
+		(at 290.83 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17219,7 +17099,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9576eb6-7b9a-438c-ab49-92b01b2a7036")
 		(property "Reference" "C2"
-			(at 264.16 44.4499 0)
+			(at 294.64 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17228,7 +17108,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 264.16 46.9899 0)
+			(at 294.64 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17237,7 +17117,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 260.35 59.69 0)
+			(at 290.83 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17246,7 +17126,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 260.35 64.77 0)
+			(at 290.83 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17255,7 +17135,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 260.35 67.31 0)
+			(at 290.83 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17264,7 +17144,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14106"
-			(at 260.35 62.23 0)
+			(at 290.83 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17273,7 +17153,7 @@
 			)
 		)
 		(property "Voltage" "35V"
-			(at 264.16 49.5299 0)
+			(at 294.64 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17282,7 +17162,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 264.16 52.0699 0)
+			(at 294.64 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18087,7 +17967,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:0.1uF_0603_25V_20%")
-		(at 254 48.26 0)
+		(at 284.48 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18096,7 +17976,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7bf5fa5-fcdb-4145-a3f7-1e20f946c576")
 		(property "Reference" "C1"
-			(at 257.81 44.4499 0)
+			(at 288.29 52.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18105,7 +17985,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 257.81 46.9899 0)
+			(at 288.29 54.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18114,7 +17994,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 254 59.69 0)
+			(at 284.48 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18123,7 +18003,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 254 62.23 0)
+			(at 284.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18132,7 +18012,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 254 67.31 0)
+			(at 284.48 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18141,7 +18021,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-00810"
-			(at 254 64.77 0)
+			(at 284.48 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18150,7 +18030,7 @@
 			)
 		)
 		(property "Voltage" "25V"
-			(at 257.81 49.5299 0)
+			(at 288.29 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18159,7 +18039,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 257.81 52.0699 0)
+			(at 288.29 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18470,7 +18350,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:4.7uF_0603_35V_20%")
-		(at 267.97 33.02 90)
+		(at 298.45 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18479,7 +18359,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb8e64cb-508e-48ef-a16b-49e8407e14a1")
 		(property "Reference" "C6"
-			(at 267.97 20.32 90)
+			(at 298.45 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18487,7 +18367,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 267.97 22.86 90)
+			(at 298.45 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18495,7 +18375,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 279.4 33.02 0)
+			(at 309.88 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18504,7 +18384,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 284.48 33.02 0)
+			(at 314.96 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18513,7 +18393,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 287.02 33.02 0)
+			(at 317.5 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18522,7 +18402,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14106"
-			(at 281.94 33.02 0)
+			(at 312.42 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18531,7 +18411,7 @@
 			)
 		)
 		(property "Voltage" "35V"
-			(at 267.97 25.4 90)
+			(at 298.45 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18539,7 +18419,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 267.97 27.94 90)
+			(at 298.45 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19195,7 +19075,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Capacitor:4.7uF_0603_35V_20%")
-		(at 265.43 30.48 90)
+		(at 295.91 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19204,7 +19084,7 @@
 		(fields_autoplaced yes)
 		(uuid "e16d535d-3ef9-40e6-b36a-c8eb41ab57dd")
 		(property "Reference" "C5"
-			(at 265.43 17.78 90)
+			(at 295.91 25.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19212,7 +19092,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 265.43 20.32 90)
+			(at 295.91 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19220,7 +19100,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Capacitor:C_0603_1608Metric"
-			(at 276.86 30.48 0)
+			(at 307.34 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19229,7 +19109,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
-			(at 281.94 30.48 0)
+			(at 312.42 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19238,7 +19118,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 284.48 30.48 0)
+			(at 314.96 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19247,7 +19127,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14106"
-			(at 279.4 30.48 0)
+			(at 309.88 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19256,7 +19136,7 @@
 			)
 		)
 		(property "Voltage" "35V"
-			(at 265.43 22.86 90)
+			(at 295.91 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19264,7 +19144,7 @@
 			)
 		)
 		(property "Tolerance" "20%"
-			(at 265.43 25.4 90)
+			(at 295.91 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19498,7 +19378,7 @@
 	)
 	(symbol
 		(lib_id "power:VPP")
-		(at 270.51 21.59 270)
+		(at 302.26 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19507,7 +19387,7 @@
 		(fields_autoplaced yes)
 		(uuid "e7650360-4917-402c-82f2-7a8199ed2eb7")
 		(property "Reference" "#PWR01"
-			(at 266.7 21.59 0)
+			(at 298.45 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19515,8 +19395,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VPP"
-			(at 274.32 21.5899 90)
+		(property "Value" "12VPP"
+			(at 306.07 29.2099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19525,7 +19405,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 270.51 21.59 0)
+			(at 302.26 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19534,7 +19414,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 21.59 0)
+			(at 302.26 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19543,7 +19423,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VPP\""
-			(at 270.51 21.59 0)
+			(at 302.26 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19826,7 +19706,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:SH1122_FPC")
-		(at 242.57 25.4 0)
+		(at 273.05 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19835,7 +19715,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4a2ca38-fe51-4ace-889d-f31c5384cde3")
 		(property "Reference" "SH1"
-			(at 239.395 22.86 0)
+			(at 269.875 30.48 0)
 			(effects
 				(font
 					(face "Hack")
@@ -19844,7 +19724,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 239.395 25.4 0)
+			(at 269.875 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19852,7 +19732,7 @@
 			)
 		)
 		(property "Footprint" "SH1122:SH1122_FPC"
-			(at 242.57 25.4 0)
+			(at 273.05 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19861,7 +19741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 242.57 25.4 0)
+			(at 273.05 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19870,7 +19750,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 242.57 25.4 0)
+			(at 273.05 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
