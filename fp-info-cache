@@ -1,4 +1,4 @@
-24369889051391427
+24371616115406781
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -361,8 +361,8 @@ MaskBtm4mm
 
 
 0
-0
-0
+2
+2
 Butm
 MaskBtm5mm
 
@@ -98848,6 +98848,13 @@ HDR-TH_3P-P2.54-V-M-1
 3
 easyeda2kicad
 IND-SMD_L4.5-W4.0_SCCD43
+
+
+0
+2
+2
+easyeda2kicad
+SOD-882_L1.0-W0.6-BI
 
 
 0
