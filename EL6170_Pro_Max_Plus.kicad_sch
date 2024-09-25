@@ -14325,6 +14325,10 @@
 		(uuid "60420ee2-2a3a-4f31-a28b-d638a4e16690")
 	)
 	(no_connect
+		(at 78.74 261.62)
+		(uuid "87077d22-f504-4e98-be9b-b50effe5427c")
+	)
+	(no_connect
 		(at 261.62 137.16)
 		(uuid "88eb941f-cb51-47ed-a14d-6228bb09b948")
 	)
@@ -29703,6 +29707,72 @@
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 68.58 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b16a5bc-3ebf-484f-abeb-4b9ef2dca5eb")
+		(property "Reference" "#PWR087"
+			(at 68.58 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 68.58 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 68.58 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8237eb9-dff3-49ce-8066-552de9cfb057")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
