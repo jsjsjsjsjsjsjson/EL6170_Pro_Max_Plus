@@ -1,4 +1,4 @@
-24371616115406781
+24376798662906484
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -364,6 +364,13 @@ MaskBtm4mm
 2
 2
 Butm
+MaskBtm4mmBh
+
+
+0
+2
+2
+Butm
 MaskBtm5mm
 
 
@@ -371,7 +378,21 @@ MaskBtm5mm
 2
 2
 Butm
+MaskBtm5mmBh
+
+
+0
+2
+2
+Butm
 MaskBtm6mm
+
+
+0
+2
+2
+Butm
+MaskBtm6mmBh
 
 
 0
