@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "b3287cc9-c0c8-4939-96d8-31efd376f189")
 	(paper "A3")
+	(title_block
+		(title "ProjectEL6170Pro")
+		(date "2024-09-27")
+		(rev "2024-09-27")
+		(company "libchara-dev")
+		(comment 1 "EL6170 Pro Max Plus")
+	)
 	(lib_symbols
 		(symbol "Audio:PCM5102A"
 			(exclude_from_sim no)
