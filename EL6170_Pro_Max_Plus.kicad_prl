@@ -1,10 +1,27 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "DEMP",
+      "KEY_ROW0",
+      "KEY_ROW1",
+      "KEY_ROW2",
+      "KEY_ROW3",
+      "KEY_ROW4",
+      "KEY_ROW5",
+      "KEY_ROW6",
+      "KEY_COL0",
+      "KEY_COL1",
+      "KEY_COL2",
+      "KEY_COL3",
+      "KEY_COL4",
+      "KEY_COL5",
+      "KEY_COL6",
+      "KEY_COL7"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -64,7 +81,7 @@
       39,
       40
     ],
-    "visible_layers": "0000000_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 1
   },
   "git": {

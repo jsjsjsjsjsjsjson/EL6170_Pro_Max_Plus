@@ -14146,6 +14146,12 @@
 		(uuid "a141114a-ec66-4b89-b66c-14f2f933a1af")
 	)
 	(junction
+		(at 31.75 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4ce6710-2d9c-4afa-a44a-853ad0c62563")
+	)
+	(junction
 		(at 266.7 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15878,6 +15884,16 @@
 			(type default)
 		)
 		(uuid "3dfbaf66-ae6e-4186-bc06-b00014149a67")
+	)
+	(wire
+		(pts
+			(xy 29.21 73.66) (xy 31.75 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e222017-99ba-44cf-a810-7fe10700a5b9")
 	)
 	(wire
 		(pts
@@ -18671,6 +18687,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 73.66) (xy 39.37 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7d1b27f-fa25-414e-9203-20de37767a28")
+	)
+	(wire
+		(pts
 			(xy 152.4 236.22) (xy 165.1 236.22)
 		)
 		(stroke
@@ -18838,6 +18864,16 @@
 			(type default)
 		)
 		(uuid "c2d51070-bd2d-4708-9868-3384a1cd8268")
+	)
+	(wire
+		(pts
+			(xy 31.75 73.66) (xy 31.75 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c330cc47-c17d-4671-89bb-f7a20e02acd4")
 	)
 	(wire
 		(pts
@@ -19298,6 +19334,16 @@
 			(type default)
 		)
 		(uuid "dd880c60-5e94-4126-9de8-b29ee24fb0a5")
+	)
+	(wire
+		(pts
+			(xy 31.75 63.5) (xy 31.75 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dddb1c9c-3ab2-4be5-9d1a-dc2bd714260a")
 	)
 	(wire
 		(pts
@@ -20012,6 +20058,16 @@
 			(justify left bottom)
 		)
 		(uuid "3afd6a91-ee95-4a91-bc58-bf532123aee2")
+		(property "Netclass" "Power"
+			(at 214.63 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "VBAT"
 		(at 264.16 184.15 0)
@@ -20023,6 +20079,16 @@
 			(justify left bottom)
 		)
 		(uuid "45878604-53bb-4edf-9317-02ebeace35a3")
+		(property "Netclass" "Power"
+			(at 264.16 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(label "VDD_SPI"
 		(at 162.56 69.85 0)
@@ -20045,6 +20111,16 @@
 			(justify right bottom)
 		)
 		(uuid "6f55cbb6-c61f-4446-8d98-d1571205338e")
+		(property "Netclass" "Power"
+			(at 187.96 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(label "USB5V"
 		(at 132.08 162.56 180)
@@ -20056,6 +20132,16 @@
 			(justify right bottom)
 		)
 		(uuid "9b2a4661-ea7a-426c-b426-69e8318601cb")
+		(property "Netclass" "Power"
+			(at 132.08 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(label "VDD_SPI"
 		(at 213.36 69.85 0)
@@ -20078,6 +20164,16 @@
 			(justify right bottom)
 		)
 		(uuid "b5d6e586-9fcb-4604-bf8f-59b95b6430ac")
+		(property "Netclass" "Power"
+			(at 255.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(label "USB5V"
 		(at 229.87 204.47 180)
@@ -20089,6 +20185,16 @@
 			(justify right bottom)
 		)
 		(uuid "c3cebcff-11da-4591-b88d-51682bbe1e57")
+		(property "Netclass" "Power"
+			(at 229.87 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(label "BAT5V"
 		(at 128.27 179.07 180)
@@ -20100,6 +20206,16 @@
 			(justify right bottom)
 		)
 		(uuid "cbe75eaa-3d75-4333-89c5-8e9a1df18367")
+		(property "Netclass" "Power"
+			(at 128.27 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify right)
+			)
+		)
 	)
 	(label "VBAT"
 		(at 250.19 69.85 0)
@@ -20111,6 +20227,16 @@
 			(justify left bottom)
 		)
 		(uuid "e81bc687-0658-4a4b-9329-c2d216b04132")
+		(property "Netclass" "Power"
+			(at 250.19 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(global_label "GPIO35"
 		(shape input)
@@ -22862,6 +22988,28 @@
 			)
 		)
 	)
+	(global_label "STDBY"
+		(shape input)
+		(at 29.21 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9da76881-5673-4a18-a124-1c0cd8a5521b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.4191 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "U0RX"
 		(shape input)
 		(at 110.49 109.22 0)
@@ -24266,6 +24414,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO2"
+		(shape input)
+		(at 39.37 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fe66f8a2-61b1-413d-882b-9d75e6b3b1d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -29636,6 +29806,71 @@
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 31.75 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3423b07d-a859-493d-884d-5dd1108e8837")
+		(property "Reference" "#PWR091"
+			(at 31.75 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 31.75 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 31.75 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 31.75 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 31.75 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac0774d0-ec27-4163-ad70-9fb02cb0f389")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -37633,6 +37868,85 @@
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SparkFun-Resistor:10k_0402")
+		(at 31.75 68.58 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c48e015-0904-4683-b7d0-528bdd440ba3")
+		(property "Reference" "R36"
+			(at 34.29 67.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 34.29 69.8499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SparkFun-Resistor:R_0402_1005Metric"
+			(at 35.56 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 40.64 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 43.18 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "RES-14241"
+			(at 38.1 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca35a7d8-5179-4f99-b354-49720f85c2ea")
+		)
+		(pin "2"
+			(uuid "0c41c244-6e12-4193-9ef8-a6f7a3a1ed8b")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "R36")
 					(unit 1)
 				)
 			)
