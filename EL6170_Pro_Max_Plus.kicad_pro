@@ -542,7 +542,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "../Desktop/EL6170_Pro_Max_Plus.dsn",
       "step": "",
