@@ -11132,19 +11132,19 @@
 				)
 			)
 		)
-		(symbol "easyeda2kicad:PJ-327A0-SMT"
+		(symbol "easyeda2kicad:PJ-320B"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "CN"
-				(at 0 10.16 0)
+			(property "Reference" "Audio"
+				(at 0 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "PJ-327A0-SMT"
+			(property "Value" "PJ-320B"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -11152,7 +11152,7 @@
 					)
 				)
 			)
-			(property "Footprint" "easyeda2kicad:AUDIO-SMD_PJ-327A0-SMT"
+			(property "Footprint" "easyeda2kicad:AUDIO-SMD_PJ-320B"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -11161,7 +11161,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Audio-Video-Connectors_XKB-Enterprise-PJ-327A0-SMT_C381135.html"
+			(property "Datasheet" "https://lcsc.com/product-detail/Audio-Connectors_3-5mmCloth-headphone-jack_C18594.html"
 				(at 0 -15.24 0)
 				(effects
 					(font
@@ -11179,7 +11179,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part" "C381135"
+			(property "LCSC Part" "C18594"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -11188,10 +11188,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "PJ-327A0-SMT_0_1"
+			(symbol "PJ-320B_0_1"
 				(rectangle
-					(start -5.84 0.51)
-					(end -4.32 -3.81)
+					(start -7.11 0)
+					(end -5.59 -5.33)
 					(stroke
 						(width 0)
 						(type default)
@@ -11202,7 +11202,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -2.54) (xy -0.25 -1.52)
+						(xy 1.27 2.54) (xy -6.35 2.54) (xy -6.35 0)
 					)
 					(stroke
 						(width 0)
@@ -11214,7 +11214,7 @@
 				)
 				(polyline
 					(pts
-						(xy -5.08 0.51) (xy -5.08 5.08) (xy 2.54 5.08)
+						(xy 1.27 -5.08) (xy -1.52 -5.08) (xy -2.03 -4.32) (xy -2.54 -5.08)
 					)
 					(stroke
 						(width 0)
@@ -11226,43 +11226,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.54 -5.08) (xy -4.57 -5.08) (xy -4.83 -4.57) (xy -5.08 -5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy -2.29 -2.54) (xy -2.79 -1.78) (xy -3.05 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy -2.79 2.54) (xy -3.05 1.78) (xy -3.3 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 0 0) (xy 0 -2.54) (xy 0.25 -1.52) (xy 0.25 -1.52)
+						(xy 1.27 -2.54) (xy -3.05 -2.54) (xy -3.56 -3.56) (xy -4.06 -2.54)
 					)
 					(stroke
 						(width 0)
@@ -11273,8 +11237,26 @@
 					)
 				)
 				(pin unspecified line
-					(at 5.08 -2.54 180)
-					(length 2.54)
+					(at 6.35 2.54 180)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 6.35 -2.54 180)
+					(length 5.08)
 					(name "2"
 						(effects
 							(font
@@ -11291,8 +11273,8 @@
 					)
 				)
 				(pin unspecified line
-					(at 5.08 5.08 180)
-					(length 2.54)
+					(at 6.35 -5.08 180)
+					(length 5.08)
 					(name "3"
 						(effects
 							(font
@@ -11301,60 +11283,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 -5.08 180)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -13031,12 +12959,6 @@
 		(uuid "075d02dc-ae35-47e5-83a2-60a53d310886")
 	)
 	(junction
-		(at 361.95 233.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "07b769ff-49b4-425c-889e-868c547ee1d8")
-	)
-	(junction
 		(at 165.1 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13323,12 +13245,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39e5de99-5869-4bb7-a91f-72807ef48da8")
-	)
-	(junction
-		(at 363.22 236.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3aecb8cb-964b-4674-83aa-e22cc62033bf")
 	)
 	(junction
 		(at 264.16 199.39)
@@ -14630,16 +14546,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 226.06) (xy 372.11 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11485ba6-b816-4299-be9b-adae0891c13e")
-	)
-	(wire
-		(pts
 			(xy 317.5 73.66) (xy 317.5 71.12)
 		)
 		(stroke
@@ -14677,16 +14583,6 @@
 			(type default)
 		)
 		(uuid "139aae1a-393d-46ac-a969-8f4470f9ae0e")
-	)
-	(wire
-		(pts
-			(xy 360.68 231.14) (xy 361.95 231.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13f1e203-ad9e-41fc-bb44-0fd2e242e41e")
 	)
 	(wire
 		(pts
@@ -15307,16 +15203,6 @@
 			(type default)
 		)
 		(uuid "301c5665-865c-48c6-aa05-0a328857eb30")
-	)
-	(wire
-		(pts
-			(xy 361.95 233.68) (xy 363.22 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "303c9b36-9cc2-4cdc-95d5-986d19a12780")
 	)
 	(wire
 		(pts
@@ -15960,16 +15846,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 233.68) (xy 361.95 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48ae6fab-939d-476c-bb15-7847fd8637e0")
-	)
-	(wire
-		(pts
 			(xy 254 189.23) (xy 264.16 189.23)
 		)
 		(stroke
@@ -16127,16 +16003,6 @@
 			(type default)
 		)
 		(uuid "4fd782ad-9ce5-4809-a1d1-c54a15d1ed5d")
-	)
-	(wire
-		(pts
-			(xy 372.11 236.22) (xy 363.22 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "507be643-a16e-4293-a456-98bbd06ac249")
 	)
 	(wire
 		(pts
@@ -18710,16 +18576,6 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 226.06) (xy 372.11 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c17ffdb5-d817-468d-ab09-bc0b427757da")
-	)
-	(wire
-		(pts
 			(xy 33.02 247.65) (xy 33.02 251.46)
 		)
 		(stroke
@@ -19260,16 +19116,6 @@
 	)
 	(wire
 		(pts
-			(xy 360.68 228.6) (xy 363.22 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d800f55e-31f9-4865-8913-adca18f62d5b")
-	)
-	(wire
-		(pts
 			(xy 203.2 237.49) (xy 203.2 243.84)
 		)
 		(stroke
@@ -19630,16 +19476,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 236.22) (xy 360.68 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec273e69-2a17-44a3-8f0f-af640497477b")
-	)
-	(wire
-		(pts
 			(xy 139.7 237.49) (xy 139.7 243.84)
 		)
 		(stroke
@@ -19817,16 +19653,6 @@
 			(type default)
 		)
 		(uuid "f1a9b8af-f2b7-4686-bf9f-9c6ef6cb7ddf")
-	)
-	(wire
-		(pts
-			(xy 361.95 231.14) (xy 361.95 233.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1c26a67-803e-4fec-b974-76f30be786b1")
 	)
 	(wire
 		(pts
@@ -22099,28 +21925,6 @@
 			)
 		)
 	)
-	(global_label "ROUT"
-		(shape input)
-		(at 363.22 228.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6cc50feb-0f6a-4e8f-87a5-6e2e2af4b568")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 371.1038 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SPICS0"
 		(shape input)
 		(at 124.46 66.04 0)
@@ -22486,28 +22290,6 @@
 		(uuid "813ee02f-aa8f-417a-a4c5-530784efc71b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 165.2428 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LOUT"
-		(shape input)
-		(at 363.22 233.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "81559ed1-238c-44f2-8da4-9cecc268d776")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 370.8619 233.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24427,6 +24209,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROUT"
+		(shape input)
+		(at 369.57 234.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef58de36-a746-4bc1-873c-21468099e1db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.4538 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LOUT"
+		(shape input)
+		(at 369.57 237.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f27e9f72-6891-4ac0-b5fe-be81f7cef4ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.2119 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -27426,6 +27252,86 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:PJ-320B")
+		(at 363.22 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "238bdd51-c878-40d6-8baf-5d6eedcea290")
+		(property "Reference" "Audio1"
+			(at 360.3 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PJ-320B"
+			(at 360.3 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:AUDIO-SMD_PJ-320B"
+			(at 363.22 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Audio-Connectors_3-5mmCloth-headphone-jack_C18594.html"
+			(at 363.22 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 363.22 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C18594"
+			(at 363.22 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5fe78135-8db2-457a-88e1-38feedfcbc4e")
+		)
+		(pin "3"
+			(uuid "36742d1e-9042-40d0-94dc-32a7e7dc8e30")
+		)
+		(pin "2"
+			(uuid "471fa746-6a88-483c-8ae1-a2be789b234f")
+		)
+		(instances
+			(project ""
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "Audio1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SparkFun-Resistor:10k_0402")
 		(at 36.83 254 180)
 		(unit 1)
@@ -27978,92 +27884,6 @@
 			(project "EL6170_Pro_Max_Plus"
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "SW21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:PJ-327A0-SMT")
-		(at 355.6 231.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "29d9e50d-1883-4464-9904-a99789e6b1f6")
-		(property "Reference" "CN1"
-			(at 353.95 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PJ-327A0-SMT"
-			(at 353.95 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:AUDIO-SMD_PJ-327A0-SMT"
-			(at 355.6 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Audio-Video-Connectors_XKB-Enterprise-PJ-327A0-SMT_C381135.html"
-			(at 355.6 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 355.6 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C381135"
-			(at 355.6 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "10b21b13-05fc-40f3-baf7-36e4764c53ae")
-		)
-		(pin "2"
-			(uuid "3a3437e2-b81f-491d-8f6e-0853bece0fe4")
-		)
-		(pin "4"
-			(uuid "0745e55c-8e6e-4c03-af8f-48c1a6177e1f")
-		)
-		(pin "6"
-			(uuid "7acb6913-b3f3-414c-a8f5-3b579019eb8b")
-		)
-		(pin "5"
-			(uuid "392c9d0d-d9e3-41d8-b4a8-b2502f2335df")
-		)
-		(instances
-			(project ""
-				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "CN1")
 					(unit 1)
 				)
 			)
@@ -32796,72 +32616,6 @@
 			(project "EL6170_Pro_Max_Plus"
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "#PWR053")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND1")
-		(at 363.22 236.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c1d21fc-ffaa-4a00-9311-f86cad346ccd")
-		(property "Reference" "#PWR064"
-			(at 363.22 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "AGND"
-			(at 363.22 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 363.22 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 363.22 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
-			(at 363.22 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2771fe14-1edd-49b4-abf6-72ad020eadfd")
-		)
-		(instances
-			(project "EL6170_Pro_Max_Plus"
-				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -37640,6 +37394,73 @@
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND1")
+		(at 369.57 229.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a66528ee-3b0f-4c18-8238-1ced81ec9046")
+		(property "Reference" "#PWR031"
+			(at 375.92 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 373.38 229.8699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 369.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND1\" , ground"
+			(at 369.57 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad347b0b-c19e-41cb-be86-bff376dffca6")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
