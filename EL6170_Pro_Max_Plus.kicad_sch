@@ -18659,7 +18659,7 @@
 	)
 	(global_label "GPIO48"
 		(shape input)
-		(at 44.45 72.39 0)
+		(at 44.45 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18669,7 +18669,7 @@
 		)
 		(uuid "2ff88c02-0f22-4efc-aca0-a74804cc118a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.3295 72.39 0)
+			(at 54.3295 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28456,7 +28456,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Resistor:15k_0603")
-		(at 40.64 72.39 0)
+		(at 40.64 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28465,14 +28465,6 @@
 		(fields_autoplaced yes)
 		(uuid "551140f4-0130-4c67-b0ab-cdf470ebd82f")
 		(property "Reference" "R10"
-			(at 40.64 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "15k"
 			(at 40.64 68.58 0)
 			(effects
 				(font
@@ -28480,8 +28472,16 @@
 				)
 			)
 		)
+		(property "Value" "15k"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "SparkFun-Resistor:R_0603_1608Metric"
-			(at 40.64 76.708 0)
+			(at 40.64 79.248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28490,15 +28490,6 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
-			(at 40.64 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
 			(at 40.64 83.82 0)
 			(effects
 				(font
@@ -28507,8 +28498,17 @@
 				(hide yes)
 			)
 		)
+		(property "Description" "Resistor"
+			(at 40.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "PROD_ID" "RES-07854"
-			(at 40.64 79.248 0)
+			(at 40.64 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32788,16 +32788,15 @@
 	)
 	(symbol
 		(lib_id "SparkFun-LED:LED")
-		(at 33.02 72.39 180)
+		(at 33.02 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aa787b1d-c29b-466f-9ae4-557958c28556")
 		(property "Reference" "D2"
-			(at 34.6075 64.77 0)
+			(at 33.02 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32805,7 +32804,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 34.6075 67.31 0)
+			(at 33.02 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32813,7 +32812,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-LED:LED_0603_1608Metric"
-			(at 33.02 67.31 0)
+			(at 33.02 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32822,7 +32821,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 64.77 0)
+			(at 33.02 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32831,7 +32830,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 33.02 59.69 0)
+			(at 33.02 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32840,7 +32839,7 @@
 			)
 		)
 		(property "PROD_ID" "LED-"
-			(at 33.02 62.23 0)
+			(at 33.02 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38914,7 +38913,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 29.21 72.39 90)
+		(at 29.21 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38923,7 +38922,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9563282-3aaf-4f62-ab5f-5ca4f3e344ad")
 		(property "Reference" "#PWR051"
-			(at 33.02 72.39 0)
+			(at 33.02 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38932,7 +38931,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 25.4 72.3899 90)
+			(at 25.4 74.9299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38941,7 +38940,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 72.39 0)
+			(at 29.21 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38950,7 +38949,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 72.39 0)
+			(at 29.21 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38959,7 +38958,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 29.21 72.39 0)
+			(at 29.21 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
