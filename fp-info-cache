@@ -1,4 +1,4 @@
-24390627111790152
+24506409965853496
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -353,48 +353,6 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
-0
-2
-2
-Butm
-MaskBtm4mm
-
-
-0
-2
-2
-Butm
-MaskBtm4mmBh
-
-
-0
-2
-2
-Butm
-MaskBtm5mm
-
-
-0
-2
-2
-Butm
-MaskBtm5mmBh
-
-
-0
-2
-2
-Butm
-MaskBtm6mm
-
-
-0
-2
-2
-Butm
-MaskBtm6mmBh
-
-
 0
 2
 2
@@ -48565,6 +48523,258 @@ conn samtec discrete wire terminal
 0
 22
 21
+Connector_Samtec_MicroPower
+Samtec_UMPS-02-XX.X-X-V-S-W_1x02-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+10
+3
+Connector_Samtec_MicroPower
+Samtec_UMPS-02-XX.X-X-V-S_1x02_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+2
+2
+Connector_Samtec_MicroPower
+Samtec_UMPS-03-XX.X-X-V-S-W_1x03-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+11
+4
+Connector_Samtec_MicroPower
+Samtec_UMPS-03-XX.X-X-V-S_1x03_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+3
+3
+Connector_Samtec_MicroPower
+Samtec_UMPS-04-XX.X-X-V-S-W_1x04-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+12
+5
+Connector_Samtec_MicroPower
+Samtec_UMPS-04-XX.X-X-V-S_1x04_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+4
+4
+Connector_Samtec_MicroPower
+Samtec_UMPS-05-XX.X-X-V-S-W_1x05-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+13
+6
+Connector_Samtec_MicroPower
+Samtec_UMPS-05-XX.X-X-V-S_1x05_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+5
+5
+Connector_Samtec_MicroPower
+Samtec_UMPS-06-XX.X-X-V-S-W_1x06-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+14
+7
+Connector_Samtec_MicroPower
+Samtec_UMPS-06-XX.X-X-V-S_1x06_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+6
+6
+Connector_Samtec_MicroPower
+Samtec_UMPS-07-XX.X-X-V-S-W_1x07-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+15
+8
+Connector_Samtec_MicroPower
+Samtec_UMPS-07-XX.X-X-V-S_1x07_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+7
+7
+Connector_Samtec_MicroPower
+Samtec_UMPS-08-XX.X-X-V-S-W_1x08-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+16
+9
+Connector_Samtec_MicroPower
+Samtec_UMPS-08-XX.X-X-V-S_1x08_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+8
+8
+Connector_Samtec_MicroPower
+Samtec_UMPS-09-XX.X-X-V-S-W_1x09-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+17
+10
+Connector_Samtec_MicroPower
+Samtec_UMPS-09-XX.X-X-V-S_1x09_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+9
+9
+Connector_Samtec_MicroPower
+Samtec_UMPS-10-XX.X-X-V-S-W_1x10-1MP_P2.0mm_Socket_WeldTab
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+18
+11
+Connector_Samtec_MicroPower
+Samtec_UMPS-10-XX.X-X-V-S_1x10_P2.0mm_Socket
+2.00 mm mPOWER Ultra Micro Power Socket (source: https://suddendocs.samtec.com/prints/umps-xx-xx.x-xx-v-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power socket
+0
+10
+10
+Connector_Samtec_MicroPower
+Samtec_UMPT-02-XX.X-X-V-S-W_1x02-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+10
+3
+Connector_Samtec_MicroPower
+Samtec_UMPT-02-XX.X-X-V-S_1x02_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+2
+2
+Connector_Samtec_MicroPower
+Samtec_UMPT-03-XX.X-X-V-S-W_1x03-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+11
+4
+Connector_Samtec_MicroPower
+Samtec_UMPT-03-XX.X-X-V-S_1x03_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+3
+3
+Connector_Samtec_MicroPower
+Samtec_UMPT-04-XX.X-X-V-S-W_1x04-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+12
+5
+Connector_Samtec_MicroPower
+Samtec_UMPT-04-XX.X-X-V-S_1x04_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+4
+4
+Connector_Samtec_MicroPower
+Samtec_UMPT-05-XX.X-X-V-S-W_1x05-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+13
+6
+Connector_Samtec_MicroPower
+Samtec_UMPT-05-XX.X-X-V-S_1x05_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+5
+5
+Connector_Samtec_MicroPower
+Samtec_UMPT-06-XX.X-X-V-S-W_1x06-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+14
+7
+Connector_Samtec_MicroPower
+Samtec_UMPT-06-XX.X-X-V-S_1x06_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+6
+6
+Connector_Samtec_MicroPower
+Samtec_UMPT-07-XX.X-X-V-S-W_1x07-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+15
+8
+Connector_Samtec_MicroPower
+Samtec_UMPT-07-XX.X-X-V-S_1x07_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+7
+7
+Connector_Samtec_MicroPower
+Samtec_UMPT-08-XX.X-X-V-S-W_1x08-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+16
+9
+Connector_Samtec_MicroPower
+Samtec_UMPT-08-XX.X-X-V-S_1x08_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+8
+8
+Connector_Samtec_MicroPower
+Samtec_UMPT-09-XX.X-X-V-S-W_1x09-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+17
+10
+Connector_Samtec_MicroPower
+Samtec_UMPT-09-XX.X-X-V-S_1x09_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+9
+9
+Connector_Samtec_MicroPower
+Samtec_UMPT-10-XX.X-X-V-S-W_1x10-1MP_P2.0mm_Terminal_WeldTab
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+18
+11
+Connector_Samtec_MicroPower
+Samtec_UMPT-10-XX.X-X-V-S_1x10_P2.0mm_Terminal
+2.00 mm mPOWER Ultra Micro Power Terminal, Vertical (source: https://suddendocs.samtec.com/prints/umpt-xx-xx.x-xx-v-x-x-x-x-xr-footprint.pdf)
+conn samtec ultra-mirco-power terminal
+0
+10
+10
 Connector_Stocko
 Stocko_MKS_1651-6-0-202_1x2_P2.50mm_Vertical
 Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator
@@ -49650,6 +49860,69 @@ Mini USB 2.0 Type B
 0
 9
 6
+Connector_Video
+DVI-D_Molex_74320-4004_Horizontal
+DVI-D Dual Link connector, horizontal, 24 pins, Molex P/N 74320-4004, https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/743/74320/743204004_sd.pdf?inline
+dvi right angle
+0
+26
+25
+Connector_Video
+DVI-I_Molex_74320-1004_Horizontal
+DVI-I Dual Link connector, horizontal, 29 pins, Molex P/N 74320-1004, https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/743/74320/743201004_sd.pdf?inline
+dvi right angle
+0
+32
+30
+Connector_Video
+HDMI_A_Amphenol_10029449-x01xLF_Horizontal
+HDMI Type A connector, Amphenol 10029449-001TLF 10029449-001RLF 10029449-101TLF 10029449-101RLF, Right Angle(https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029449.pdf)
+hdmi right angle
+0
+23
+20
+Connector_Video
+HDMI_A_Contact_Technology_HDMI-19APL2_Horizontal
+HDMI Contact Technology Type A http://www.contactswitch.com/en/download.aspx?id=1449
+HDMI Contact Technology Type A
+0
+23
+20
+Connector_Video
+HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
+HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
+hdmi type a
+0
+23
+20
+Connector_Video
+HDMI_A_Molex_208658-1001_Horizontal
+HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf
+HDMI Molex Type A
+0
+23
+20
+Connector_Video
+HDMI_Micro-D_Molex_46765-0x01
+HDMI, Micro, Type D, SMD, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
+hdmi micro type d right angle smd
+0
+23
+20
+Connector_Video
+HDMI_Micro-D_Molex_46765-1x01
+HDMI, Micro, Type D, THT, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
+hdmi micro type d right angle tht
+0
+23
+20
+Connector_Video
+HDMI_Micro-D_Molex_46765-2x0x
+HDMI, Micro, Type D, THT/SMD hybrid, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)
+hdmi micro type d right angle tht smd hybrid 
+0
+23
+20
 Connector_Wago
 Wago_734-132_1x02_P3.50mm_Vertical
 Molex 734 Male header (for PCBs); Straight solder pin 1 x 1 mm, 734-132 , 2 Pins (http://www.farnell.com/datasheets/2157639.pdf), generated with kicad-footprint-generator
@@ -63223,34 +63496,6 @@ solder jumper open
 0
 5
 3
-L-MODEL
-L-MODEL-LOGO_5x5
-
-
-0
-0
-0
-L-MODEL
-L-MODEL-LOGO_10x10
-
-
-0
-0
-0
-L-MODEL
-cat
-
-
-0
-0
-0
-L-MODEL
-qwq
-
-
-0
-0
-0
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -85329,13 +85574,6 @@ Skyworks
 0
 7
 7
-RFANT522
-RFANT5220110A0T
-
-
-0
-2
-2
 RF_Antenna
 AVX_M620720
 868Mhz, 915Mhz ISM antenna, 6 x 2 x 1.08mm, http://datasheets.avx.com/ethertronics/AVX-E_M620720.pdf
@@ -88738,13 +88976,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SH1122
-SH1122_FPC
-
-
-0
-24
-24
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -89481,9 +89712,114 @@ SparkFun
 0
 0
 SparkFun-Aesthetic
-SparkFun_Flame
+SparkFun_Flame_1.5mm
 
-SparkFun
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_1mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_2.5mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_2mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_3mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_4mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_5mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_6mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_7mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_8mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_9mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_10mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_12.5mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_15mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_20mm
+
+SparkFun Logo
+0
+0
+0
+SparkFun-Aesthetic
+SparkFun_Flame_25mm
+
+SparkFun Logo
 0
 0
 0
@@ -90028,8 +90364,8 @@ SparkFun
 3
 SparkFun-Connector
 1x03_Locking
-
-SparkFun
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 3
 3
@@ -90037,6 +90373,13 @@ SparkFun-Connector
 1x04
 
 SparkFun
+0
+4
+4
+SparkFun-Connector
+1x04_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 4
 4
@@ -90062,6 +90405,13 @@ SparkFun
 10
 10
 SparkFun-Connector
+1x05_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+5
+5
+SparkFun-Connector
 1x05_SMD_1x1mm_1
 
 SparkFun
@@ -90072,6 +90422,13 @@ SparkFun-Connector
 1x06
 
 SparkFun
+0
+6
+6
+SparkFun-Connector
+1x06_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 6
 6
@@ -90090,9 +90447,23 @@ SparkFun
 7
 7
 SparkFun-Connector
+1x07_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+7
+7
+SparkFun-Connector
 1x08
 
 SparkFun
+0
+8
+8
+SparkFun-Connector
+1x08_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 8
 8
@@ -90111,9 +90482,23 @@ SparkFun
 9
 9
 SparkFun-Connector
+1x09_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+9
+9
+SparkFun-Connector
 1x10
 
 SparkFun
+0
+10
+10
+SparkFun-Connector
+1x10_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 10
 10
@@ -90132,6 +90517,13 @@ SparkFun
 27
 11
 SparkFun-Connector
+1x11_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+11
+11
+SparkFun-Connector
 1x12
 
 SparkFun
@@ -90146,9 +90538,23 @@ SparkFun
 24
 24
 SparkFun-Connector
+1x12_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+12
+12
+SparkFun-Connector
 1x13
 
 SparkFun
+0
+13
+13
+SparkFun-Connector
+1x13_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 13
 13
@@ -90167,9 +90573,23 @@ SparkFun
 28
 28
 SparkFun-Connector
+1x14_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+14
+14
+SparkFun-Connector
 1x15
 
 SparkFun
+0
+15
+15
+SparkFun-Connector
+1x15_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 15
 15
@@ -90181,9 +90601,23 @@ SparkFun
 16
 16
 SparkFun-Connector
+1x16_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+16
+16
+SparkFun-Connector
 1x17
 
 SparkFun
+0
+17
+17
+SparkFun-Connector
+1x17_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 17
 17
@@ -90195,9 +90629,23 @@ SparkFun
 18
 18
 SparkFun-Connector
+1x18_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+18
+18
+SparkFun-Connector
 1x19
 
 SparkFun
+0
+19
+19
+SparkFun-Connector
+1x19_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 19
 19
@@ -90209,12 +90657,61 @@ SparkFun
 20
 20
 SparkFun-Connector
+1x20_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+20
+20
+SparkFun-Connector
+1x21_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+21
+21
+SparkFun-Connector
 1x22
 
 SparkFun
 0
 22
 22
+SparkFun-Connector
+1x22_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+22
+22
+SparkFun-Connector
+1x23_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+23
+23
+SparkFun-Connector
+1x24_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+24
+24
+SparkFun-Connector
+1x25_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+25
+25
+SparkFun-Connector
+1x26_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+26
+26
 SparkFun-Connector
 1x27_Castellated_0.05inch
 
@@ -90223,6 +90720,20 @@ SparkFun
 68
 27
 SparkFun-Connector
+1x27_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+27
+27
+SparkFun-Connector
+1x28_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+28
+28
+SparkFun-Connector
 1x29
 
 SparkFun
@@ -90230,9 +90741,23 @@ SparkFun
 29
 29
 SparkFun-Connector
+1x29_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
+0
+29
+29
+SparkFun-Connector
 1x30
 
 SparkFun
+0
+30
+30
+SparkFun-Connector
+1x30_Locking
+See our tutorial: https://www.sparkfun.com/tutorials/114
+SparkFun Locking Friction Fit PTH Male headers
 0
 30
 30
@@ -90336,8 +90861,8 @@ SparkFun
 16
 SparkFun-Connector
 FPC_0.5mm-12
-
-SparkFun
+12 pin backflip connector
+SparkFun FPC Back flip SMD
 0
 14
 14
@@ -90362,6 +90887,20 @@ SparkFun FPC 24-pin 24pin 24 pin
 0
 26
 26
+SparkFun-Connector
+FPC_0.5mm-30
+30 pin dual sided FPC connector
+SparkFun FPC Back flip SMD
+0
+32
+32
+SparkFun-Connector
+FPC_0.5mm-32
+
+SparkFun
+0
+34
+34
 SparkFun-Connector
 FPC_1.0mm-6_LIF
 
@@ -90762,7 +91301,7 @@ SparkFun
 13
 13
 SparkFun-Connector
-microSD_Friction_Fit_Atom
+microSD_Friction_Fit_Common
 
 SparkFun
 0
@@ -90775,6 +91314,27 @@ SparkFun
 0
 15
 10
+SparkFun-Display
+OLED-1.3-128X64-Folded
+
+SparkFun OLED 1.3" 128 x 64
+0
+30
+30
+SparkFun-Display
+OLED-1.3-128X64-Unfolded
+
+SparkFun OLED 1.3" 128 x 64
+0
+30
+30
+SparkFun-Display
+OLED_0.66-SMD
+
+SparkFun display OLED
+0
+28
+28
 SparkFun-Display
 ePaper_2.13in
 24 Pin FPC 0.5mm with contacts both sides.
@@ -91098,8 +91658,22 @@ SparkFun LED
 2
 2
 SparkFun-LED
+LED_1205_RGB_Bottom
+
+SparkFun LED Tri-color Discrete RGB Rear Mount
+0
+4
+4
+SparkFun-LED
 LED_1206_3216Metric
 LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+SparkFun LED
+0
+2
+2
+SparkFun-LED
+LED_1206_Bottom_Green
+
 SparkFun LED
 0
 2
@@ -91497,6 +92071,13 @@ SparkFun
 16
 16
 SparkFun-Semiconductor-Standard
+TSSOP-16_4.4x5mm_P0.65mm
+TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SparkFun TSSOP SO
+0
+16
+16
+SparkFun-Semiconductor-Standard
 TSSOP-20_4.4x6.5mm_P0.65mm
 
 SparkFun TSSOP SO
@@ -91594,6 +92175,20 @@ SparkFun
 0
 5
 5
+SparkFun-Switch
+Navigation_Right_Angle
+
+SparkFun Horizontal Navigation Switch Select
+0
+5
+5
+SparkFun-Switch
+Navigation_SMD_9.9x9.9mm
+https://cdn.sparkfun.com/assets/4/3/6/1/d/Korean-Hroparts-Elec-K1-1210UN-01.pdf
+SparkFun D-Pad Navigation Switch Multi-Directional 5-way
+0
+10
+10
 SparkFun-Switch
 Pad-CapacitiveTouch
 <h3>Conductive Button</h3>{return}<p>Used with rubber key pads on the <a href="https://www.sparkfun.com/products/retired/8602">Nordic Key FOB</a>. This one was designed and proven to work with the <a href="https://www.sparkfun.com/products/retired/9377">PolyCase Key FOB enclosures</a>.</p>
@@ -98847,93 +99442,9 @@ Varistor VF
 2
 2
 easyeda2kicad
-AUDIO-SMD_PJ-320B
+SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL-EP2.0
 
 
 0
-5
-3
-easyeda2kicad
-AUDIO-SMD_PJ-327A0-SMT
-
-
-0
-7
-5
-easyeda2kicad
-AUDIO-SMD_PJ-342
-
-
-0
-8
-6
-easyeda2kicad
-C0603
-
-
-0
-2
-2
-easyeda2kicad
-CRYSTAL-SMD_4P-L2.5-W2.0-BL
-
-
-0
-4
-4
-easyeda2kicad
-CRYSTAL-SMD_4P-L2.5-W2.0-BL-A
-
-
-0
-4
-4
-easyeda2kicad
-ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
-
-
-0
+13
 9
-9
-easyeda2kicad
-FILTER-SMD_L5.2-W2.0-L
-
-
-0
-2
-2
-easyeda2kicad
-HDR-TH_3P-P2.54-V-M-1
-
-
-0
-3
-3
-easyeda2kicad
-IND-SMD_L4.5-W4.0_SCCD43
-
-
-0
-2
-2
-easyeda2kicad
-MICRO-USB-SMD_MICRO-XNJ-ZB
-
-
-0
-9
-6
-easyeda2kicad
-MICRO-USB-SMD_MICROXNJ
-
-
-0
-9
-9
-easyeda2kicad
-SOD-882_L1.0-W0.6-BI
-
-
-0
-2
-2
