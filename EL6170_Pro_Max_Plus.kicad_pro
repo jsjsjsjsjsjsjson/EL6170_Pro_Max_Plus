@@ -548,7 +548,7 @@
       "pos_files": "",
       "specctra_dsn": "../Desktop/EL6170_Pro_Max_Plus.dsn",
       "step": "",
-      "svg": "",
+      "svg": "svg/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
