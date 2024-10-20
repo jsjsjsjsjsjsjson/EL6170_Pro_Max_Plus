@@ -1,0 +1,1850 @@
+** Drc report for EL6170_Pro_Max_Plus.kicad_pcb **
+** Created on 2024-10-20T23:33:34+0800 **
+
+** Found 490 DRC violations **
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(214.6000 mm, 105.1000 mm): 走线 [KEY_COL0] (B.Cu), 长度: 2.9627 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(214.6000 mm, 105.1000 mm): 走线 [KEY_COL0] (B.Cu), 长度: 2.9627 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(214.6000 mm, 105.1000 mm): 走线 [KEY_COL0] (B.Cu), 长度: 2.9627 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(214.6000 mm, 105.1000 mm): 走线 [KEY_COL0] (B.Cu), 长度: 2.9627 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(119.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(120.0373 mm, 131.7000 mm): 走线 [KEY_COL3] (B.Cu), 长度: 1.6140 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(119.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(120.0373 mm, 131.7000 mm): 走线 [KEY_COL3] (B.Cu), 长度: 1.6140 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(112.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(110.5000 mm, 97.7732 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(112.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(110.5000 mm, 97.7732 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(128.8495 mm, 107.6149 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.3358 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(131.6226 mm, 116.8774 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 3.7644 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(128.8495 mm, 107.6149 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.3358 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(131.6226 mm, 116.8774 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 3.7644 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(136.5000 mm, 71.0000 mm): B.Mask 上的 圆形
+    @(132.5000 mm, 70.0773 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.9471 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(97.2644 mm, 98.5000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.8804 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(97.2644 mm, 98.5000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.8804 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(118.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(116.4718 mm, 107.5000 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(97.2644 mm, 98.5000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.8804 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(136.5000 mm, 71.0000 mm): B.Mask 上的 圆形
+    @(132.5000 mm, 70.0773 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.9471 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(118.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(116.4718 mm, 107.5000 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(206.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(205.9816 mm, 105.5000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 2.3671 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(112.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(110.3343 mm, 116.9260 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(206.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(205.9816 mm, 105.5000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 2.3671 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(187.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(182.5095 mm, 95.0000 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 4.0693 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(112.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(110.3343 mm, 116.9260 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(187.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(182.5095 mm, 95.0000 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 4.0693 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(136.5000 mm, 80.5000 mm): B.Mask 上的 圆形
+    @(133.0000 mm, 77.0000 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.4668 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(193.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(190.9644 mm, 108.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 1.4644 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(171.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 1.5000 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(97.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(97.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(193.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(190.9644 mm, 108.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 1.4644 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(210.3870 mm, 116.8774 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(187.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(184.0000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(162.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(160.3578 mm, 97.8578 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0278 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(162.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(160.3578 mm, 97.8578 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0278 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(187.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(184.0000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(212.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(210.3870 mm, 116.8774 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(181.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(176.9260 mm, 107.4260 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 2.1083 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.5000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(97.0773 mm, 74.5000 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.1307 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(162.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(160.3578 mm, 97.8578 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0278 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(150.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(147.8870 mm, 97.8774 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(168.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(164.2095 mm, 105.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 3.3622 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(168.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(164.2095 mm, 105.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 3.3622 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(171.5000 mm, 118.2603 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.8870 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(168.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(164.2095 mm, 105.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 3.3622 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(100.5000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(97.0773 mm, 74.5000 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.1307 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(168.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(164.2095 mm, 105.0000 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 3.3622 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(150.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(147.8870 mm, 97.8774 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(156.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(154.3078 mm, 107.1738 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.3004 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(135.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0067 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(135.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0067 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(135.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0067 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(156.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(154.3078 mm, 107.1738 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.3004 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(135.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0067 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(137.5000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(135.3820 mm, 97.8820 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.0067 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(187.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(186.7603 mm, 125.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 6.0250 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(124.6000 mm, 96.1644 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 2.4226 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(150.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(147.2644 mm, 117.5000 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.8804 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(172.8343 mm, 126.4260 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(150.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(147.2644 mm, 117.5000 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.8804 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(143.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(141.1000 mm, 107.8603 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.6142 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(175.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(172.8343 mm, 126.4260 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(143.7000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(141.1000 mm, 107.8603 mm): 走线 [KEY_ROW3] (B.Cu), 长度: 0.6142 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(124.6000 mm, 96.1644 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 2.4226 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(124.6000 mm, 96.1644 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 2.4226 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(162.5000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(164.6672 mm, 121.3379 mm): 过孔 [KEY_COL6] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(202.9981 mm, 129.7392 mm): 走线 [KEY_COL5] (B.Cu), 长度: 1.1589 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(196.7312 mm, 118.0291 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.5600 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(196.7312 mm, 118.0291 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 1.5600 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+    @(127.7000 mm, 126.3000 mm): F.Cu 上 SWRST1 的焊盘 2 [CHIP_PU]
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+    @(124.3000 mm, 129.7000 mm): F.Cu 上 SWRST1 的焊盘 1 [GND]
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(126.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(124.9359 mm, 123.4641 mm): 走线 [CHIP_PU] (F.Cu), 长度: 3.9619 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+    @(142.7000 mm, 126.3000 mm): F.Cu 上 SWBOOT1 的焊盘 2 [GPIO0]
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+    @(139.3000 mm, 129.7000 mm): F.Cu 上 SWBOOT1 的焊盘 1 [GND]
+[solder_mask_bridge]: 顶层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(141.0000 mm, 128.0000 mm): F.Mask 上的 圆形
+    @(141.7758 mm, 125.3000 mm): 走线 [GPIO0] (F.Cu), 长度: 1.2931 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(104.2000 mm, 107.5000 mm): B.Cu 上 SW35 的焊盘 2 [KEY_ROW4]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(108.2500 mm, 111.4500 mm): B.Cu 上 SW35 的焊盘 1 [KEY_COL2]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(106.2000 mm, 109.5000 mm): B.Mask 上的 圆形
+    @(104.0343 mm, 107.4260 mm): 走线 [KEY_ROW4] (B.Cu), 长度: 0.0716 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(198.0000 mm, 98.0000 mm): B.Cu 上 SW18 的焊盘 2 [KEY_ROW2]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(202.0500 mm, 101.9500 mm): B.Cu 上 SW18 的焊盘 1 [KEY_COL1]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(200.0000 mm, 100.0000 mm): B.Mask 上的 圆形
+    @(198.0000 mm, 97.7732 mm): 走线 [KEY_ROW2] (B.Cu), 长度: 0.1538 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(129.5000 mm, 126.5000 mm): B.Cu 上 SW52 的焊盘 2 [KEY_ROW6]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(133.5500 mm, 130.4500 mm): B.Cu 上 SW52 的焊盘 1 [KEY_COL2]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(131.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(134.3000 mm, 125.5000 mm): 走线 [CHIP_PU] (B.Cu), 长度: 7.3283 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(142.0000 mm, 126.5000 mm): B.Cu 上 SW51 的焊盘 2 [KEY_ROW6]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+    @(146.0500 mm, 130.4500 mm): B.Cu 上 SW51 的焊盘 1 [KEY_COL1]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(144.0000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(138.5000 mm, 126.5000 mm): 走线 [KEY_ROW6] (B.Cu), 长度: 3.2718 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(159.5000 mm, 126.0000 mm): B.Cu 上 SW50 的焊盘 2 [KEY_ROW6]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(159.5000 mm, 131.0000 mm): B.Cu 上 SW50 的焊盘 1 [KEY_COL0]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(160.4000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(159.5000 mm, 126.0000 mm): B.Cu 上 SW50 的焊盘 2 [KEY_ROW6]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(160.4000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(159.5000 mm, 131.0000 mm): B.Cu 上 SW50 的焊盘 1 [KEY_COL0]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(155.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(153.2073 mm, 127.5032 mm): B.Cu 上的 线段 [<no net>]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(163.5000 mm, 128.5000 mm): B.Mask 上的 圆形
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(110.6500 mm, 73.6500 mm): B.Cu 上 SW5 的焊盘 2 [KEY_ROW0]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(115.5500 mm, 78.1500 mm): B.Cu 上 SW5 的焊盘 1 [KEY_COL4]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(113.0000 mm, 76.0000 mm): B.Mask 上的 圆形
+    @(111.8154 mm, 72.3154 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 1.2076 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(123.0000 mm, 117.0000 mm): B.Cu 上 SW42 的焊盘 2 [KEY_ROW5]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(127.0500 mm, 120.9500 mm): B.Cu 上 SW42 的焊盘 1 [KEY_COL1]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.0000 mm, 119.0000 mm): B.Mask 上的 圆形
+    @(122.7718 mm, 117.0000 mm): 走线 [KEY_ROW5] (B.Cu), 长度: 0.0969 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(122.5000 mm, 72.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(122.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 2 [KEY_ROW0]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.5000 mm, 72.0000 mm): B.Mask 上的 圆形
+    @(128.6000 mm, 68.5000 mm): 走线 [KEY_ROW0] (B.Cu), 长度: 7.9000 mm
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(122.5000 mm, 80.0000 mm): B.Cu 上的 线段 [<no net>]
+    @(122.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 2 [KEY_ROW0]
+[solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
+    Rule: 电路板设置阻焊层最小宽度; error
+    @(125.5000 mm, 80.0000 mm): B.Mask 上的 圆形
+    @(128.9800 mm, 81.7200 mm): 走线 [KEY_COL3] (B.Cu), 长度: 5.2400 mm
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(92.8000 mm, 121.8750 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(93.5500 mm, 124.4750 mm): Edge.Cuts 上的 线段
+    @(93.5500 mm, 123.1750 mm): Edge.Cuts 上的 弧线
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(150.0000 mm, 62.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(92.9000 mm, 124.4750 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(92.9000 mm, 115.0000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(118.1000 mm, 62.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(94.9000 mm, 133.0000 mm): Edge.Cuts 上的 线段
+    @(215.5000 mm, 133.0000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(92.0000 mm, 63.5000 mm): Edge.Cuts 上的 线段
+    @(118.1000 mm, 62.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(92.0000 mm, 69.5000 mm): Edge.Cuts 上的 线段
+    @(92.0000 mm, 63.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(92.0000 mm, 115.0000 mm): Edge.Cuts 上的 线段
+    @(92.9000 mm, 115.0000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(92.9000 mm, 69.5000 mm): Edge.Cuts 上的 线段
+    @(92.0000 mm, 69.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(92.9000 mm, 80.5000 mm): Edge.Cuts 上的 线段
+    @(92.9000 mm, 69.5000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (不是闭合形状)
+    Local override; error
+    @(122.0000 mm, 65.2000 mm): Edge.Cuts 上的 线段
+[invalid_outline]: 电路板的外框形状有问题 (自交)
+    Local override; error
+    @(118.0000 mm, 65.2000 mm): Edge.Cuts 上的 线段
+    @(120.0000 mm, 65.2000 mm): Edge.Cuts 上的 弧线
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(141.8956 mm, 105.5000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(141.8956 mm, 104.1000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(141.1956 mm, 106.2000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(141.1956 mm, 104.8000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(141.1956 mm, 103.4000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(140.4956 mm, 105.5000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(140.4956 mm, 104.1000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(139.7956 mm, 106.2000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(139.7956 mm, 104.8000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(139.7956 mm, 103.4000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(139.0956 mm, 105.5000 mm): 41 的非金属化焊盘 [GND] U13
+[drill_out_of_range]: 孔径超出范围 (电路板中的约束 最小宽度 0.3000 mm; 实际 0.2000 mm)
+    Rule: 电路板中的约束; error
+    @(139.0956 mm, 104.1000 mm): 41 的非金属化焊盘 [GND] U13
+[copper_edge_clearance]: 电路板边缘间距违规 (电路板设置中的 "板边" 约束 间距 0.5000 mm; 实际 0.4648 mm)
+    Rule: 电路板设置中的 "板边" 约束; error
+    @(199.6500 mm, 113.7500 mm): Edge.Cuts 上的 圆形
+    @(201.5000 mm, 115.0500 mm): F.Cu 上的 多边形 [/BAT5V]
+[copper_edge_clearance]: 电路板边缘间距违规 (电路板设置中的 "板边" 约束 间距 0.5000 mm; 实际 0.2916 mm)
+    Rule: 电路板设置中的 "板边" 约束; error
+    @(199.6500 mm, 113.7500 mm): Edge.Cuts 上的 圆形
+    @(200.6900 mm, 115.0500 mm): F.Cu 上的 多边形 [/BAT5V]
+[copper_edge_clearance]: 电路板边缘间距违规 (电路板设置中的 "板边" 约束 间距 0.5000 mm; 实际 0.0300 mm)
+    Rule: 电路板设置中的 "板边" 约束; error
+    @(218.8000 mm, 92.5000 mm): Edge.Cuts 上的 线段
+    @(218.1200 mm, 103.5700 mm): F.Cu 上 USB1 的焊盘 6 [GND]
+[copper_edge_clearance]: 电路板边缘间距违规 (电路板设置中的 "板边" 约束 间距 0.5000 mm; 实际 0.0300 mm)
+    Rule: 电路板设置中的 "板边" 约束; error
+    @(218.8000 mm, 92.5000 mm): Edge.Cuts 上的 线段
+    @(218.1200 mm, 97.0900 mm): F.Cu 上 USB1 的焊盘 6 [GND]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(124.3000 mm, 129.7000 mm): F.Cu 上 SWRST1 的焊盘 1 [GND]
+    @(126.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(127.7000 mm, 126.3000 mm): F.Cu 上 SWRST1 的焊盘 2 [CHIP_PU]
+    @(126.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(139.3000 mm, 129.7000 mm): F.Cu 上 SWBOOT1 的焊盘 1 [GND]
+    @(141.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(142.7000 mm, 126.3000 mm): F.Cu 上 SWBOOT1 的焊盘 2 [GPIO0]
+    @(141.0000 mm, 128.0000 mm): F.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(108.2500 mm, 111.4500 mm): B.Cu 上 SW35 的焊盘 1 [KEY_COL2]
+    @(106.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(104.2000 mm, 107.5000 mm): B.Cu 上 SW35 的焊盘 2 [KEY_ROW4]
+    @(106.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(202.0500 mm, 101.9500 mm): B.Cu 上 SW18 的焊盘 1 [KEY_COL1]
+    @(200.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(198.0000 mm, 98.0000 mm): B.Cu 上 SW18 的焊盘 2 [KEY_ROW2]
+    @(200.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(133.5500 mm, 130.4500 mm): B.Cu 上 SW52 的焊盘 1 [KEY_COL2]
+    @(131.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(129.5000 mm, 126.5000 mm): B.Cu 上 SW52 的焊盘 2 [KEY_ROW6]
+    @(131.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(146.0500 mm, 130.4500 mm): B.Cu 上 SW51 的焊盘 1 [KEY_COL1]
+    @(144.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(142.0000 mm, 126.5000 mm): B.Cu 上 SW51 的焊盘 2 [KEY_ROW6]
+    @(144.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(159.5000 mm, 131.0000 mm): B.Cu 上 SW50 的焊盘 1 [KEY_COL0]
+    @(160.4000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(159.5000 mm, 131.0000 mm): B.Cu 上 SW50 的焊盘 1 [KEY_COL0]
+    @(155.5000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(159.5000 mm, 126.0000 mm): B.Cu 上 SW50 的焊盘 2 [KEY_ROW6]
+    @(160.4000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(159.5000 mm, 126.0000 mm): B.Cu 上 SW50 的焊盘 2 [KEY_ROW6]
+    @(155.5000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(115.5500 mm, 78.1500 mm): B.Cu 上 SW5 的焊盘 1 [KEY_COL4]
+    @(113.0000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(110.6500 mm, 73.6500 mm): B.Cu 上 SW5 的焊盘 2 [KEY_ROW0]
+    @(113.0000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(127.0500 mm, 120.9500 mm): B.Cu 上 SW42 的焊盘 1 [KEY_COL1]
+    @(125.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(123.0000 mm, 117.0000 mm): B.Cu 上 SW42 的焊盘 2 [KEY_ROW5]
+    @(125.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(128.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 1 [KEY_COL3]
+    @(128.5000 mm, 75.0500 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(128.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 1 [KEY_COL3]
+    @(128.5000 mm, 76.9500 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(122.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 2 [KEY_ROW0]
+    @(122.5000 mm, 72.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(122.5000 mm, 76.0000 mm): B.Cu 上 SW4 的焊盘 2 [KEY_ROW0]
+    @(122.5000 mm, 80.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(121.0500 mm, 130.4500 mm): B.Cu 上 SW53 的焊盘 1 [KEY_COL3]
+    @(119.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(117.0000 mm, 126.5000 mm): B.Cu 上 SW53 的焊盘 2 [KEY_ROW6]
+    @(119.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 93.0000 mm): B.Cu 上 SW11 的焊盘 1 [KEY_COL2]
+    @(159.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 93.0000 mm): B.Cu 上 SW11 的焊盘 1 [KEY_COL2]
+    @(163.4500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 88.6000 mm): B.Cu 上 SW11 的焊盘 2 [KEY_ROW1]
+    @(162.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 88.6000 mm): B.Cu 上 SW11 的焊盘 2 [KEY_ROW1]
+    @(160.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 88.6000 mm): B.Cu 上 SW11 的焊盘 2 [KEY_ROW1]
+    @(159.4200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(162.5000 mm, 88.6000 mm): B.Cu 上 SW11 的焊盘 2 [KEY_ROW1]
+    @(164.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(145.7500 mm, 111.4500 mm): B.Cu 上 SW32 的焊盘 1 [KEY_COL7]
+    @(143.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(141.7000 mm, 107.5000 mm): B.Cu 上 SW32 的焊盘 2 [KEY_ROW3]
+    @(143.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(183.2500 mm, 111.4500 mm): B.Cu 上 SW29 的焊盘 1 [KEY_COL4]
+    @(181.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(179.2000 mm, 107.5000 mm): B.Cu 上 SW29 的焊盘 2 [KEY_ROW3]
+    @(181.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(214.5500 mm, 130.4500 mm): B.Cu 上 SW46 的焊盘 1 [GND]
+    @(212.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(210.5000 mm, 126.5000 mm): B.Cu 上 SW46 的焊盘 2 [GPIO0]
+    @(212.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 93.0000 mm): B.Cu 上 SW12 的焊盘 1 [KEY_COL3]
+    @(147.0000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 93.0000 mm): B.Cu 上 SW12 的焊盘 1 [KEY_COL3]
+    @(150.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+    @(150.0000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+    @(146.9200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+    @(148.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+    @(152.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 93.0000 mm): B.Cu 上 SW8 的焊盘 1 [KEY_COL7]
+    @(200.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 93.0000 mm): B.Cu 上 SW8 的焊盘 1 [KEY_COL7]
+    @(197.0000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 88.6000 mm): B.Cu 上 SW8 的焊盘 2 [KEY_ROW0]
+    @(202.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 88.6000 mm): B.Cu 上 SW8 的焊盘 2 [KEY_ROW0]
+    @(196.9200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 88.6000 mm): B.Cu 上 SW8 的焊盘 2 [KEY_ROW0]
+    @(200.0000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(200.0000 mm, 88.6000 mm): B.Cu 上 SW8 的焊盘 2 [KEY_ROW0]
+    @(198.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(102.0500 mm, 101.9500 mm): B.Cu 上 SW26 的焊盘 1 [KEY_COL1]
+    @(100.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(98.0000 mm, 98.0000 mm): B.Cu 上 SW26 的焊盘 2 [KEY_ROW3]
+    @(100.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(133.2500 mm, 111.4500 mm): B.Cu 上 SW33 的焊盘 1 [KEY_COL0]
+    @(131.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(129.2000 mm, 107.5000 mm): B.Cu 上 SW33 的焊盘 2 [KEY_ROW4]
+    @(131.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(102.0500 mm, 120.9500 mm): B.Cu 上 SW44 的焊盘 1 [KEY_COL3]
+    @(100.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(98.0000 mm, 117.0000 mm): B.Cu 上 SW44 的焊盘 2 [KEY_ROW5]
+    @(100.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(195.7500 mm, 111.4500 mm): B.Cu 上 SW28 的焊盘 1 [KEY_COL3]
+    @(193.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(191.7000 mm, 107.5000 mm): B.Cu 上 SW28 的焊盘 2 [KEY_ROW3]
+    @(193.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(114.5500 mm, 120.9500 mm): B.Cu 上 SW43 的焊盘 1 [KEY_COL2]
+    @(112.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(110.5000 mm, 117.0000 mm): B.Cu 上 SW43 的焊盘 2 [KEY_ROW5]
+    @(112.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(152.0500 mm, 101.9500 mm): B.Cu 上 SW22 的焊盘 1 [KEY_COL5]
+    @(150.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(148.0000 mm, 98.0000 mm): B.Cu 上 SW22 的焊盘 2 [KEY_ROW2]
+    @(150.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(177.0500 mm, 130.4500 mm): B.Cu 上 SW49 的焊盘 1 [KEY_COL7]
+    @(175.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(173.0000 mm, 126.5000 mm): B.Cu 上 SW49 的焊盘 2 [KEY_ROW5]
+    @(175.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(202.0500 mm, 120.9500 mm): B.Cu 上 SW36 的焊盘 1 [KEY_COL3]
+    @(200.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(198.0000 mm, 117.0000 mm): B.Cu 上 SW36 的焊盘 2 [KEY_ROW4]
+    @(200.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(139.0500 mm, 73.1500 mm): B.Cu 上 SW2 的焊盘 1 [KEY_COL1]
+    @(136.5000 mm, 71.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(134.1500 mm, 68.6500 mm): B.Cu 上 SW2 的焊盘 2 [KEY_ROW0]
+    @(136.5000 mm, 71.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 93.0000 mm): B.Cu 上 SW13 的焊盘 1 [KEY_COL4]
+    @(134.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 93.0000 mm): B.Cu 上 SW13 的焊盘 1 [KEY_COL4]
+    @(138.4500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
+    @(134.4200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
+    @(137.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
+    @(135.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
+    @(139.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 93.0000 mm): B.Cu 上 SW7 的焊盘 1 [KEY_COL6]
+    @(209.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 93.0000 mm): B.Cu 上 SW7 的焊盘 1 [KEY_COL6]
+    @(213.4500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 88.6000 mm): B.Cu 上 SW7 的焊盘 2 [KEY_ROW0]
+    @(209.4200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 88.6000 mm): B.Cu 上 SW7 的焊盘 2 [KEY_ROW0]
+    @(210.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 88.6000 mm): B.Cu 上 SW7 的焊盘 2 [KEY_ROW0]
+    @(212.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(212.5000 mm, 88.6000 mm): B.Cu 上 SW7 的焊盘 2 [KEY_ROW0]
+    @(214.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(103.5000 mm, 131.0000 mm): B.Cu 上 SW54 的焊盘 1 [KEY_COL4]
+    @(104.4000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(103.5000 mm, 131.0000 mm): B.Cu 上 SW54 的焊盘 1 [KEY_COL4]
+    @(99.5000 mm, 131.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(103.5000 mm, 126.0000 mm): B.Cu 上 SW54 的焊盘 2 [KEY_ROW6]
+    @(104.4000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(103.5000 mm, 126.0000 mm): B.Cu 上 SW54 的焊盘 2 [KEY_ROW6]
+    @(99.5000 mm, 126.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(189.5500 mm, 120.9500 mm): B.Cu 上 SW37 的焊盘 1 [KEY_COL4]
+    @(187.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(185.5000 mm, 117.0000 mm): B.Cu 上 SW37 的焊盘 2 [KEY_ROW4]
+    @(187.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.5000 mm, 76.0000 mm): B.Cu 上 SW1 的焊盘 1 [KEY_COL0]
+    @(150.5000 mm, 75.0500 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.5000 mm, 76.0000 mm): B.Cu 上 SW1 的焊盘 1 [KEY_COL0]
+    @(150.5000 mm, 76.9500 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(144.5000 mm, 76.0000 mm): B.Cu 上 SW1 的焊盘 2 [KEY_ROW0]
+    @(144.5000 mm, 72.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(144.5000 mm, 76.0000 mm): B.Cu 上 SW1 的焊盘 2 [KEY_ROW0]
+    @(144.5000 mm, 80.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(100.0000 mm, 93.1000 mm): B.Cu 上 SW16 的焊盘 1 [KEY_COL7]
+    @(97.0000 mm, 93.1000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(100.0000 mm, 93.1000 mm): B.Cu 上 SW16 的焊盘 1 [KEY_COL7]
+    @(100.9500 mm, 93.1000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(101.5700 mm, 87.7800 mm): B.Cu 上 SW16 的焊盘 2 [KEY_ROW1]
+    @(102.0000 mm, 90.1000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(164.5500 mm, 120.9500 mm): B.Cu 上 SW39 的焊盘 1 [KEY_COL6]
+    @(162.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(160.5000 mm, 117.0000 mm): B.Cu 上 SW39 的焊盘 2 [KEY_ROW4]
+    @(162.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(103.0500 mm, 78.1500 mm): B.Cu 上 SW6 的焊盘 1 [KEY_COL5]
+    @(100.5000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(98.1500 mm, 73.6500 mm): B.Cu 上 SW6 的焊盘 2 [KEY_ROW0]
+    @(100.5000 mm, 76.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(127.0500 mm, 101.9500 mm): B.Cu 上 SW24 的焊盘 1 [KEY_COL7]
+    @(125.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(123.0000 mm, 98.0000 mm): B.Cu 上 SW24 的焊盘 2 [KEY_ROW2]
+    @(125.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(158.2500 mm, 111.4500 mm): B.Cu 上 SW31 的焊盘 1 [KEY_COL6]
+    @(156.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(154.2000 mm, 107.5000 mm): B.Cu 上 SW31 的焊盘 2 [KEY_ROW3]
+    @(156.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(177.0500 mm, 101.9500 mm): B.Cu 上 SW20 的焊盘 1 [KEY_COL3]
+    @(175.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(173.0000 mm, 98.0000 mm): B.Cu 上 SW20 的焊盘 2 [KEY_ROW2]
+    @(175.0000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(214.5500 mm, 101.9500 mm): B.Cu 上 SW17 的焊盘 1 [KEY_COL0]
+    @(212.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(210.5000 mm, 98.0000 mm): B.Cu 上 SW17 的焊盘 2 [KEY_ROW2]
+    @(212.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(139.5500 mm, 101.9500 mm): B.Cu 上 SW23 的焊盘 1 [KEY_COL6]
+    @(137.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(135.5000 mm, 98.0000 mm): B.Cu 上 SW23 的焊盘 2 [KEY_ROW2]
+    @(137.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(139.5500 mm, 120.9500 mm): B.Cu 上 SW41 的焊盘 1 [KEY_COL0]
+    @(137.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(135.5000 mm, 117.0000 mm): B.Cu 上 SW41 的焊盘 2 [KEY_ROW5]
+    @(137.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(177.0500 mm, 120.9500 mm): B.Cu 上 SW38 的焊盘 1 [KEY_COL5]
+    @(175.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(173.0000 mm, 117.0000 mm): B.Cu 上 SW38 的焊盘 2 [KEY_ROW4]
+    @(175.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(214.5500 mm, 120.9500 mm): B.Cu 上 SW45 的焊盘 1 [KEY_COL4]
+    @(212.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(210.5000 mm, 117.0000 mm): B.Cu 上 SW45 的焊盘 2 [KEY_ROW5]
+    @(212.5000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(189.5500 mm, 101.9500 mm): B.Cu 上 SW19 的焊盘 1 [KEY_COL2]
+    @(187.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(185.5000 mm, 98.0000 mm): B.Cu 上 SW19 的焊盘 2 [KEY_ROW2]
+    @(187.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 93.0000 mm): B.Cu 上 SW14 的焊盘 1 [KEY_COL5]
+    @(122.0000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 93.0000 mm): B.Cu 上 SW14 的焊盘 1 [KEY_COL5]
+    @(125.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 88.6000 mm): B.Cu 上 SW14 的焊盘 2 [KEY_ROW1]
+    @(127.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 88.6000 mm): B.Cu 上 SW14 的焊盘 2 [KEY_ROW1]
+    @(121.9200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 88.6000 mm): B.Cu 上 SW14 的焊盘 2 [KEY_ROW1]
+    @(125.0000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(125.0000 mm, 88.6000 mm): B.Cu 上 SW14 的焊盘 2 [KEY_ROW1]
+    @(123.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(164.5500 mm, 101.9500 mm): B.Cu 上 SW21 的焊盘 1 [KEY_COL4]
+    @(162.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(160.5000 mm, 98.0000 mm): B.Cu 上 SW21 的焊盘 2 [KEY_ROW2]
+    @(162.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(202.0500 mm, 130.4500 mm): B.Cu 上 SW47 的焊盘 1 [KEY_COL5]
+    @(200.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(198.0000 mm, 126.5000 mm): B.Cu 上 SW47 的焊盘 2 [KEY_ROW5]
+    @(200.0000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(170.7500 mm, 111.4500 mm): B.Cu 上 SW30 的焊盘 1 [KEY_COL5]
+    @(168.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(166.7000 mm, 107.5000 mm): B.Cu 上 SW30 的焊盘 2 [KEY_ROW3]
+    @(168.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 93.0000 mm): B.Cu 上 SW9 的焊盘 1 [KEY_COL0]
+    @(188.4500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 93.0000 mm): B.Cu 上 SW9 的焊盘 1 [KEY_COL0]
+    @(184.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 88.6000 mm): B.Cu 上 SW9 的焊盘 2 [KEY_ROW1]
+    @(184.4200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 88.6000 mm): B.Cu 上 SW9 的焊盘 2 [KEY_ROW1]
+    @(185.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 88.6000 mm): B.Cu 上 SW9 的焊盘 2 [KEY_ROW1]
+    @(187.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(187.5000 mm, 88.6000 mm): B.Cu 上 SW9 的焊盘 2 [KEY_ROW1]
+    @(189.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 93.0000 mm): B.Cu 上 SW10 的焊盘 1 [KEY_COL1]
+    @(172.0000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 93.0000 mm): B.Cu 上 SW10 的焊盘 1 [KEY_COL1]
+    @(175.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 88.6000 mm): B.Cu 上 SW10 的焊盘 2 [KEY_ROW1]
+    @(171.9200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 88.6000 mm): B.Cu 上 SW10 的焊盘 2 [KEY_ROW1]
+    @(175.0000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 88.6000 mm): B.Cu 上 SW10 的焊盘 2 [KEY_ROW1]
+    @(173.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(175.0000 mm, 88.6000 mm): B.Cu 上 SW10 的焊盘 2 [KEY_ROW1]
+    @(177.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(114.5500 mm, 101.9500 mm): B.Cu 上 SW25 的焊盘 1 [KEY_COL0]
+    @(112.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(110.5000 mm, 98.0000 mm): B.Cu 上 SW25 的焊盘 2 [KEY_ROW3]
+    @(112.5000 mm, 100.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(139.0500 mm, 82.6500 mm): B.Cu 上 SW3 的焊盘 1 [KEY_COL2]
+    @(136.5000 mm, 80.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(134.1500 mm, 78.1500 mm): B.Cu 上 SW3 的焊盘 2 [KEY_ROW0]
+    @(136.5000 mm, 80.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(120.7500 mm, 111.4500 mm): B.Cu 上 SW34 的焊盘 1 [KEY_COL1]
+    @(118.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(116.7000 mm, 107.5000 mm): B.Cu 上 SW34 的焊盘 2 [KEY_ROW4]
+    @(118.7000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(152.0500 mm, 120.9500 mm): B.Cu 上 SW40 的焊盘 1 [KEY_COL7]
+    @(150.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(148.0000 mm, 117.0000 mm): B.Cu 上 SW40 的焊盘 2 [KEY_ROW4]
+    @(150.0000 mm, 119.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 93.0000 mm): B.Cu 上 SW15 的焊盘 1 [KEY_COL6]
+    @(109.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 93.0000 mm): B.Cu 上 SW15 的焊盘 1 [KEY_COL6]
+    @(113.4500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(114.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(109.4200 mm, 91.0200 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(112.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(110.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(189.5500 mm, 130.4500 mm): B.Cu 上 SW48 的焊盘 1 [KEY_COL6]
+    @(187.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(185.5000 mm, 126.5000 mm): B.Cu 上 SW48 的焊盘 2 [KEY_ROW5]
+    @(187.5000 mm, 128.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(208.2500 mm, 111.4500 mm): B.Cu 上 SW27 的焊盘 1 [KEY_COL2]
+    @(206.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(204.2000 mm, 107.5000 mm): B.Cu 上 SW27 的焊盘 2 [KEY_ROW3]
+    @(206.2000 mm, 109.5000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1300 mm)
+    Rule: 网络类 'Default'; error
+    @(215.7600 mm, 103.5200 mm): F.Cu 上 USB1 的焊盘 6 [GND]
+    @(215.9700 mm, 102.3300 mm): [<no net>] 的非金属化焊盘 USB1
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1300 mm)
+    Rule: 网络类 'Default'; error
+    @(215.7600 mm, 97.1400 mm): F.Cu 上 USB1 的焊盘 6 [GND]
+    @(215.9700 mm, 98.3300 mm): [<no net>] 的非金属化焊盘 USB1
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(138.7000 mm, 122.1900 mm): 过孔 [+3V3] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(187.5000 mm, 88.0000 mm): 过孔 [KEY_ROW1] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(175.0000 mm, 88.0000 mm): 过孔 [KEY_ROW1] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(162.5000 mm, 88.0000 mm): 过孔 [KEY_ROW1] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(164.9000 mm, 131.5000 mm): 过孔 [KEY_COL0] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(177.0000 mm, 116.2000 mm): 过孔 [KEY_COL5] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(164.6672 mm, 121.3379 mm): 过孔 [KEY_COL6] (F.Cu - B.Cu)
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(100.0000 mm, 87.6000 mm): [<no net>] 的非金属化焊盘 Audio1
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(124.3000 mm, 129.7000 mm): F.Cu 上 SWRST1 的焊盘 1 [GND]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(127.7000 mm, 126.3000 mm): F.Cu 上 SWRST1 的焊盘 2 [CHIP_PU]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(139.3000 mm, 129.7000 mm): F.Cu 上 SWBOOT1 的焊盘 1 [GND]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(142.7000 mm, 126.3000 mm): F.Cu 上 SWBOOT1 的焊盘 2 [GPIO0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(108.2500 mm, 111.4500 mm): B.Cu 上 SW35 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(104.2000 mm, 107.5000 mm): B.Cu 上 SW35 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(202.0500 mm, 101.9500 mm): B.Cu 上 SW18 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(198.0000 mm, 98.0000 mm): B.Cu 上 SW18 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(133.5500 mm, 130.4500 mm): B.Cu 上 SW52 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(129.5000 mm, 126.5000 mm): B.Cu 上 SW52 的焊盘 2 [KEY_ROW6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(146.0500 mm, 130.4500 mm): B.Cu 上 SW51 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(142.0000 mm, 126.5000 mm): B.Cu 上 SW51 的焊盘 2 [KEY_ROW6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(115.5500 mm, 78.1500 mm): B.Cu 上 SW5 的焊盘 1 [KEY_COL4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(110.6500 mm, 73.6500 mm): B.Cu 上 SW5 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(127.0500 mm, 120.9500 mm): B.Cu 上 SW42 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(123.0000 mm, 117.0000 mm): B.Cu 上 SW42 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(121.0500 mm, 130.4500 mm): B.Cu 上 SW53 的焊盘 1 [KEY_COL3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(117.0000 mm, 126.5000 mm): B.Cu 上 SW53 的焊盘 2 [KEY_ROW6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(162.5000 mm, 88.6000 mm): B.Cu 上 SW11 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(145.7500 mm, 111.4500 mm): B.Cu 上 SW32 的焊盘 1 [KEY_COL7]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(141.7000 mm, 107.5000 mm): B.Cu 上 SW32 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(183.2500 mm, 111.4500 mm): B.Cu 上 SW29 的焊盘 1 [KEY_COL4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(179.2000 mm, 107.5000 mm): B.Cu 上 SW29 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(214.5500 mm, 130.4500 mm): B.Cu 上 SW46 的焊盘 1 [GND]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(210.5000 mm, 126.5000 mm): B.Cu 上 SW46 的焊盘 2 [GPIO0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(200.0000 mm, 88.6000 mm): B.Cu 上 SW8 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(102.0500 mm, 101.9500 mm): B.Cu 上 SW26 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(98.0000 mm, 98.0000 mm): B.Cu 上 SW26 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(133.2500 mm, 111.4500 mm): B.Cu 上 SW33 的焊盘 1 [KEY_COL0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(129.2000 mm, 107.5000 mm): B.Cu 上 SW33 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(102.0500 mm, 120.9500 mm): B.Cu 上 SW44 的焊盘 1 [KEY_COL3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(98.0000 mm, 117.0000 mm): B.Cu 上 SW44 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(195.7500 mm, 111.4500 mm): B.Cu 上 SW28 的焊盘 1 [KEY_COL3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(191.7000 mm, 107.5000 mm): B.Cu 上 SW28 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(114.5500 mm, 120.9500 mm): B.Cu 上 SW43 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(110.5000 mm, 117.0000 mm): B.Cu 上 SW43 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(152.0500 mm, 101.9500 mm): B.Cu 上 SW22 的焊盘 1 [KEY_COL5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(148.0000 mm, 98.0000 mm): B.Cu 上 SW22 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(177.0500 mm, 130.4500 mm): B.Cu 上 SW49 的焊盘 1 [KEY_COL7]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(173.0000 mm, 126.5000 mm): B.Cu 上 SW49 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(202.0500 mm, 120.9500 mm): B.Cu 上 SW36 的焊盘 1 [KEY_COL3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(198.0000 mm, 117.0000 mm): B.Cu 上 SW36 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(139.0500 mm, 73.1500 mm): B.Cu 上 SW2 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(134.1500 mm, 68.6500 mm): B.Cu 上 SW2 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(212.5000 mm, 88.6000 mm): B.Cu 上 SW7 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(189.5500 mm, 120.9500 mm): B.Cu 上 SW37 的焊盘 1 [KEY_COL4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(185.5000 mm, 117.0000 mm): B.Cu 上 SW37 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(101.5700 mm, 87.7800 mm): B.Cu 上 SW16 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(164.5500 mm, 120.9500 mm): B.Cu 上 SW39 的焊盘 1 [KEY_COL6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(160.5000 mm, 117.0000 mm): B.Cu 上 SW39 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(103.0500 mm, 78.1500 mm): B.Cu 上 SW6 的焊盘 1 [KEY_COL5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(98.1500 mm, 73.6500 mm): B.Cu 上 SW6 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(127.0500 mm, 101.9500 mm): B.Cu 上 SW24 的焊盘 1 [KEY_COL7]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(123.0000 mm, 98.0000 mm): B.Cu 上 SW24 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(158.2500 mm, 111.4500 mm): B.Cu 上 SW31 的焊盘 1 [KEY_COL6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(154.2000 mm, 107.5000 mm): B.Cu 上 SW31 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(177.0500 mm, 101.9500 mm): B.Cu 上 SW20 的焊盘 1 [KEY_COL3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(173.0000 mm, 98.0000 mm): B.Cu 上 SW20 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(214.5500 mm, 101.9500 mm): B.Cu 上 SW17 的焊盘 1 [KEY_COL0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(210.5000 mm, 98.0000 mm): B.Cu 上 SW17 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(139.5500 mm, 101.9500 mm): B.Cu 上 SW23 的焊盘 1 [KEY_COL6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(135.5000 mm, 98.0000 mm): B.Cu 上 SW23 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(139.5500 mm, 120.9500 mm): B.Cu 上 SW41 的焊盘 1 [KEY_COL0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(135.5000 mm, 117.0000 mm): B.Cu 上 SW41 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(177.0500 mm, 120.9500 mm): B.Cu 上 SW38 的焊盘 1 [KEY_COL5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(173.0000 mm, 117.0000 mm): B.Cu 上 SW38 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(214.5500 mm, 120.9500 mm): B.Cu 上 SW45 的焊盘 1 [KEY_COL4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(210.5000 mm, 117.0000 mm): B.Cu 上 SW45 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(189.5500 mm, 101.9500 mm): B.Cu 上 SW19 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(185.5000 mm, 98.0000 mm): B.Cu 上 SW19 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(125.0000 mm, 88.6000 mm): B.Cu 上 SW14 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(164.5500 mm, 101.9500 mm): B.Cu 上 SW21 的焊盘 1 [KEY_COL4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(160.5000 mm, 98.0000 mm): B.Cu 上 SW21 的焊盘 2 [KEY_ROW2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(202.0500 mm, 130.4500 mm): B.Cu 上 SW47 的焊盘 1 [KEY_COL5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(198.0000 mm, 126.5000 mm): B.Cu 上 SW47 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(170.7500 mm, 111.4500 mm): B.Cu 上 SW30 的焊盘 1 [KEY_COL5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(166.7000 mm, 107.5000 mm): B.Cu 上 SW30 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(187.5000 mm, 88.6000 mm): B.Cu 上 SW9 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(175.0000 mm, 88.6000 mm): B.Cu 上 SW10 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(114.5500 mm, 101.9500 mm): B.Cu 上 SW25 的焊盘 1 [KEY_COL0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(110.5000 mm, 98.0000 mm): B.Cu 上 SW25 的焊盘 2 [KEY_ROW3]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(139.0500 mm, 82.6500 mm): B.Cu 上 SW3 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(134.1500 mm, 78.1500 mm): B.Cu 上 SW3 的焊盘 2 [KEY_ROW0]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(120.7500 mm, 111.4500 mm): B.Cu 上 SW34 的焊盘 1 [KEY_COL1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(116.7000 mm, 107.5000 mm): B.Cu 上 SW34 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(152.0500 mm, 120.9500 mm): B.Cu 上 SW40 的焊盘 1 [KEY_COL7]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(148.0000 mm, 117.0000 mm): B.Cu 上 SW40 的焊盘 2 [KEY_ROW4]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(189.5500 mm, 130.4500 mm): B.Cu 上 SW48 的焊盘 1 [KEY_COL6]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(185.5000 mm, 126.5000 mm): B.Cu 上 SW48 的焊盘 2 [KEY_ROW5]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(208.2500 mm, 111.4500 mm): B.Cu 上 SW27 的焊盘 1 [KEY_COL2]
+[items_not_allowed]: 不允许的项目 (keepout 区)
+    Rule: keepout 区; error
+    @(204.2000 mm, 107.5000 mm): B.Cu 上 SW27 的焊盘 2 [KEY_ROW3]
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

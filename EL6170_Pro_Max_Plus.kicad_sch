@@ -9364,28 +9364,28 @@
 				)
 			)
 		)
-		(symbol "easyeda2kicad:MICROXNJZB"
+		(symbol "easyeda2kicad:MICROQTZB5.0"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "USB"
-				(at 0 7.62 0)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "MICRO XNJ ZB"
+			(property "Value" "MICRO QTZB5.0"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:MICRO-USB-SMD_MICRO-QTZB5.0"
 				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "easyeda2kicad:MICRO-USB-SMD_MICRO-XNJ-ZB"
-				(at 0 -15.24 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -9393,8 +9393,8 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
-				(at 0 0 0)
+			(property "Datasheet" "https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html"
+				(at 0 -15.24 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -9411,7 +9411,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part" "C668587"
+			(property "LCSC Part" "C2681556"
 				(at 0 -17.78 0)
 				(effects
 					(font
@@ -9420,10 +9420,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "MICROXNJZB_0_1"
+			(symbol "MICROQTZB5.0_0_1"
 				(rectangle
-					(start -7.62 5.08)
-					(end 5.08 -10.16)
+					(start -7.62 7.62)
+					(end 5.08 -7.62)
 					(stroke
 						(width 0)
 						(type default)
@@ -9432,8 +9432,8 @@
 						(type background)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 2.54 0)
+				(pin input line
+					(at 10.16 5.08 180)
 					(length 5.08)
 					(name "VBUS"
 						(effects
@@ -9450,8 +9450,8 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 0 0)
+				(pin input line
+					(at 10.16 2.54 180)
 					(length 5.08)
 					(name "D-"
 						(effects
@@ -9468,8 +9468,8 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 -2.54 0)
+				(pin input line
+					(at 10.16 0 180)
 					(length 5.08)
 					(name "D+"
 						(effects
@@ -9486,8 +9486,8 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 -5.08 0)
+				(pin input line
+					(at 10.16 -2.54 180)
 					(length 5.08)
 					(name "ID"
 						(effects
@@ -9504,8 +9504,8 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at -12.7 -7.62 0)
+				(pin input line
+					(at 10.16 -5.08 180)
 					(length 5.08)
 					(name "GND"
 						(effects
@@ -9522,10 +9522,10 @@
 						)
 					)
 				)
-				(pin unspecified line
-					(at 10.16 -2.54 180)
+				(pin input line
+					(at -12.7 0 0)
 					(length 5.08)
-					(name "SHELL"
+					(name "EH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12232,8 +12232,8 @@
 		(uuid "0c266da3-0c82-4b80-bbf2-025cbf7aacd9")
 	)
 	(no_connect
-		(at 201.93 44.45)
-		(uuid "5701ea03-732f-4c02-bfb1-50d398513d2a")
+		(at 201.93 40.64)
+		(uuid "1e556188-8822-48fb-94eb-2bdd13b11a97")
 	)
 	(no_connect
 		(at 261.62 144.78)
@@ -17742,7 +17742,7 @@
 		(uuid "fae10b17-a9ac-416f-9167-80f2c9821220")
 	)
 	(label "USB5V"
-		(at 201.93 36.83 180)
+		(at 201.93 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17750,9 +17750,9 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "16153b87-c9dc-496f-9e3f-dd148b68ddcb")
+		(uuid "3afb79ef-7657-4822-9920-8ce043c8db89")
 		(property "Netclass" "Power"
-			(at 201.93 38.1 0)
+			(at 201.93 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18591,6 +18591,28 @@
 			)
 		)
 	)
+	(global_label "USB_D+"
+		(shape input)
+		(at 201.93 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2666c1d9-b143-48b0-a6ed-a13bc82b5bc0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.3248 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D3-"
 		(shape input)
 		(at 138.43 134.62 180)
@@ -19141,6 +19163,28 @@
 			)
 		)
 	)
+	(global_label "USB_D-"
+		(shape input)
+		(at 201.93 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4eda380a-2e71-44c7-be85-afc9ca63a807")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 191.3248 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "I2S_LRCK"
 		(shape input)
 		(at 285.75 227.33 0)
@@ -19159,28 +19203,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_D+"
-		(shape input)
-		(at 201.93 41.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "516d6059-55b9-4a6b-95a1-6007df243dcd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.3248 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -19550,28 +19572,6 @@
 		(uuid "67723897-f21d-429c-b3e6-af8d040d641d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 117.2415 279.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "USB_D-"
-		(shape input)
-		(at 201.93 39.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "68a700f4-8404-4d52-80bf-b753bb5b6fc6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 191.3248 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22588,72 +22588,6 @@
 			(project "EL6170_Pro_Max_Plus"
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "SW8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 201.93 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10cffc30-2922-4e2b-951a-c628056c9a20")
-		(property "Reference" "#PWR09"
-			(at 201.93 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 201.93 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.93 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ccaabdb-856f-4023-b0cc-2aaeb8b3a3c7")
-		)
-		(instances
-			(project "EL6170_Pro_Max_Plus"
-				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -28990,6 +28924,95 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:MICROQTZB5.0")
+		(at 212.09 43.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "605addb2-21a1-41ba-8e4b-f8898fac6507")
+		(property "Reference" "USB1"
+			(at 213.36 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MICRO QTZB5.0"
+			(at 213.36 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:MICRO-USB-SMD_MICRO-QTZB5.0"
+			(at 212.09 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-QTZB5-0_C2681556.html"
+			(at 212.09 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 212.09 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2681556"
+			(at 212.09 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "80bd7735-8ae6-49a6-a2e1-9954f2d93304")
+		)
+		(pin "6"
+			(uuid "a3dbbb75-76de-491f-9b0b-dfa3b57b0dbe")
+		)
+		(pin "2"
+			(uuid "b61afee5-54d2-4922-a26a-480d3ecb1940")
+		)
+		(pin "1"
+			(uuid "e36a2f7d-71d8-410e-a52c-5788daf711a8")
+		)
+		(pin "3"
+			(uuid "0b4383d1-dd69-459a-8d91-e4040872333b")
+		)
+		(pin "4"
+			(uuid "5c5748f0-cee8-44dc-a788-134483a71503")
+		)
+		(instances
+			(project ""
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "USB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:AO3401A")
 		(at 149.86 171.45 0)
 		(unit 1)
@@ -29757,95 +29780,6 @@
 			(project "EL6170_Pro_Max_Plus"
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "C34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:MICROXNJZB")
-		(at 214.63 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6eb30b0d-9519-4206-bc36-95aee1e69c94")
-		(property "Reference" "USB1"
-			(at 213.36 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MicroUSB"
-			(at 213.36 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:MICRO-USB-SMD_MICRO-XNJ-ZB"
-			(at 214.63 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 214.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C668587"
-			(at 214.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "d73dd9f0-59bf-4059-817a-0e8d05e3fbee")
-		)
-		(pin "2"
-			(uuid "82a9b904-71bb-4411-90ea-baeb3aa122df")
-		)
-		(pin "1"
-			(uuid "b187b5f5-ce52-4f57-bed9-b7ae47815e3b")
-		)
-		(pin "6"
-			(uuid "8dd77763-4510-406c-a751-c50821e6377a")
-		)
-		(pin "5"
-			(uuid "ea399296-dd59-4983-a03c-27bec2a5994e")
-		)
-		(pin "4"
-			(uuid "34a69756-26aa-4208-b548-025615cc8b67")
-		)
-		(instances
-			(project ""
-				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "USB1")
 					(unit 1)
 				)
 			)
@@ -33231,6 +33165,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 201.93 38.1 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af8fa54e-1916-4867-8f11-131dc3865111")
+		(property "Reference" "#PWR011"
+			(at 195.58 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 198.12 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 201.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 201.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 201.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "425ea9f3-7eaa-4b78-a56c-6bb65770f9e2")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 109.22 243.84 0)
 		(unit 1)
@@ -34071,73 +34072,6 @@
 			(project "EL6170_Pro_Max_Plus"
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 224.79 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bc837f25-d19b-43bc-9971-c795d62ab59c")
-		(property "Reference" "#PWR08"
-			(at 231.14 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 228.6 41.9099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 224.79 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 224.79 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 224.79 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "48d2d21f-51f0-47a1-8a76-68ecdf8279af")
-		)
-		(instances
-			(project "EL6170_Pro_Max_Plus"
-				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -36837,6 +36771,73 @@
 			(project ""
 				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
 					(reference "C36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 224.79 43.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da284b03-e5e9-4cf6-a632-3e05eb20c0aa")
+		(property "Reference" "#PWR010"
+			(at 231.14 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 43.1799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 224.79 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1758c80f-eaa4-4e8b-8edd-e0d8844357fc")
+		)
+		(instances
+			(project "EL6170_Pro_Max_Plus"
+				(path "/b3287cc9-c0c8-4939-96d8-31efd376f189"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
