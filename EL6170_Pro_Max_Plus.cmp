@@ -1,0 +1,1315 @@
+Cmp-Mod V01 Created by PcbNew   date = 2024-10-24T20:20:42+0800
+
+BeginCmp
+TimeStamp = 00726fc0-b625-4d6e-bbc5-3510475060ad
+Path = /54bbe87e-35b5-4f63-93cb-8775b6739801
+Reference = C48;
+ValeurCmp = 12pF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 04ca1dd8-c3d0-4c69-9926-a632b1c3bb30
+Path = /ba9ed8ef-c9f2-4a5f-9474-5b16f2a235ec
+Reference = R24;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 063ee0fb-e5bd-4730-a3f1-dbfb8deb669c
+Path = /ac0b67a5-c63b-4481-a62f-bd1ee371a370
+Reference = BAT+;
+ValeurCmp = ~;
+IdModule  = TestPoint:TestPoint_Pad_2.0x2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0bbd4699-5440-486f-b189-ddca3e19a33f
+Path = /496289a9-84c1-4265-b986-75f738b8d8d1
+Reference = R23;
+ValeurCmp = 2;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 0fa22b3f-76ac-4d8f-9771-5d8f3ec334a8
+Path = /fd719f70-8c39-4e21-8139-0460fc45c8cf
+Reference = C47;
+ValeurCmp = 12pF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 0fb45fd1-2946-46a6-851e-0a9d009ef799
+Path = /f09de047-b6cc-41b4-9f53-e9ad07186244
+Reference = C25;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1064bc60-ca5d-46ce-af21-0d63ff83b2a7
+Path = /47aff87a-2fbe-460f-9e40-57c3fa909b38
+Reference = R30;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 132b33c5-7a37-4d90-887a-34f319a131f3
+Path = /eabe6ff5-7df7-4a9b-92ec-86052540e560
+Reference = Q3;
+ValeurCmp = 2N7002;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 14a960ff-4956-4c0e-997a-69ec69c188a1
+Path = /7ccaa666-a7ae-4f9a-9fb1-9afbf8c040ef
+Reference = C7;
+ValeurCmp = 4.7uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1a18ebb4-3c26-4935-9cc9-e2fb89fedd7b
+Path = /ed9ae2e9-6215-4ad0-9b6a-0f5d283ea064
+Reference = C44;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e47c336-4a18-4c50-9308-46e2e7778590
+Path = /59394045-f631-47ab-a73e-21159b991782
+Reference = U9;
+ValeurCmp = PCM5102A;
+IdModule  = Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1e9d5b68-d63b-4dd2-9dda-f634c55fde13
+Path = /10f7b333-eac1-4362-b890-1cb76eaf0f48
+Reference = C4;
+ValeurCmp = 4.7uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2121d54b-0aa3-4478-a6cc-fd979dd1b918
+Path = /5311f584-3f0c-4957-bb15-ae2cfcf942d0
+Reference = R25;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 23966c00-373c-4ccf-b549-2d81aaef33bb
+Path = /9158eee7-df3b-4889-bcde-196bf84b9411
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2539d9bc-6b61-4754-a5f0-a7a1974e9ed3
+Path = /6bbef055-d118-4607-afb8-cc85ad3fd304
+Reference = C34;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 27999b65-5308-490c-bdf2-0305c376c50c
+Path = /d25ca911-130a-4502-841d-d3d30bead0fe
+Reference = C20;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 29a134a6-9509-4754-ada9-654d6accd222
+Path = /32b93191-6b0d-40bf-949b-ae7e1037a55d
+Reference = C40;
+ValeurCmp = 22uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 29da515d-41e0-4c93-8e84-08f4225562c0
+Path = /d78b5a6b-d93f-4edb-b355-36e8c71e63f6
+Reference = J2;
+ValeurCmp = microSD;
+IdModule  = SparkFun-Connector:microSD_External_Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 2ea8e55c-fa8f-476e-9a9f-06b1755a0e2b
+Path = /b54e736d-3743-4832-804d-9e4902e4859a
+Reference = C46;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2ec56e2c-99e9-4ed3-aa60-43a3cea9862a
+Path = /40e39ca5-3f52-4cc8-a289-64a11ebd3f49
+Reference = R17;
+ValeurCmp = 470;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2f84391e-1219-4fbe-b28e-d9db45646c1c
+Path = /21469aa3-1268-461c-8306-e72652c19da1
+Reference = R9;
+ValeurCmp = 4.7k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 371ca735-72cc-46dc-96d8-54043849e138
+Path = /20f233b1-8fd3-439b-96b4-7e6757bab322
+Reference = C16;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 38ba67e7-ea7d-4a32-b469-7ce0c413376c
+Path = /6ecd9ced-8c43-428e-adac-90fc6276f0d6
+Reference = R12;
+ValeurCmp = 1.8M;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a8cd8d2-696f-4886-992e-a8bc30362673
+Path = /c32f8dbb-a88d-43f6-94a5-9391bb430b1a
+Reference = C35;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3badd70b-88ca-4ecb-b7fa-a3d7b61c2c87
+Path = /171054d9-3421-47ed-8248-13d15d6fcb0f
+Reference = C41;
+ValeurCmp = 22uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3c742bab-bdac-43a9-aa35-0f71c339642a
+Path = /6976336d-603a-49a9-8d5a-7075a796c45f
+Reference = D8;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = 3d52acbb-34bf-49f0-8e93-47b0ada4ab94
+Path = /b84d8d91-e10c-4dca-be9a-d5c406c02024
+Reference = U5;
+ValeurCmp = ME6217C33M5;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e161805-b170-49ca-9e2d-41763f1edb68
+Path = /bd00cc55-fd79-46ab-b719-6f2c56fe5fa6
+Reference = R6;
+ValeurCmp = 4.7k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f7684c1-565e-4983-8d18-a13666c87d9c
+Path = /94488878-47ce-4150-a729-03f97965bf21
+Reference = C29;
+ValeurCmp = 2.2uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 426d0659-ffbd-4d3d-a567-4f3ccafb0659
+Path = /ca1efb37-bc5b-4c58-909d-e424ce48e7ce
+Reference = R7;
+ValeurCmp = 499;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 49a91582-ac3e-4754-a82d-6dd374e8dd8d
+Path = /23c1c3e8-3957-444d-aad1-8d943623d872
+Reference = R32;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f8bd907-4159-4990-a564-fc1adfcf890e
+Path = /3a12e565-fda9-4797-88db-adaac77a1621
+Reference = U10;
+ValeurCmp = ME6211C33M5;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fec8a80-7499-455c-be64-2fdaf464d230
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 52d698e7-8178-4749-89f5-fbd2545390f6
+Path = /8b628425-a60b-4163-bb74-d41b9954d332
+Reference = R8;
+ValeurCmp = 4.7k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 56c11706-8c7d-4120-8bb5-321cc64cbfff
+Path = /2a21cd33-a40f-4781-a804-387eb013fdd8
+Reference = C42;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 58254ba0-dfb7-4946-a51f-fd5d8d6c92dc
+Path = /cca28db9-4316-4fc6-a577-9598ebf314eb
+Reference = L6;
+ValeurCmp = SCCD43-220KT;
+IdModule  = easyeda2kicad:IND-SMD_L4.5-W4.0_SCCD43;
+EndCmp
+
+BeginCmp
+TimeStamp = 5a201ce2-a44f-4222-9fc0-11b6344140a3
+Path = /39d49bec-8885-41df-ae3a-12877267d77c
+Reference = D10;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = 5b4233ed-d366-4a13-9a09-760f84eb3783
+Path = /4155a056-2967-46c8-90fd-ac25228315b9
+Reference = D7;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = 5bc15776-7820-43e0-9aa3-faee18486321
+Path = /663c5f73-e0ed-41c7-ab62-6a1643c59305
+Reference = R5;
+ValeurCmp = 4.7k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c90128b-8fe3-4f84-8a78-233b9f51c17d
+Path = /238bdd51-c878-40d6-8baf-5d6eedcea290
+Reference = Audio1;
+ValeurCmp = PJ-320B;
+IdModule  = easyeda2kicad:AUDIO-SMD_PJ-320B;
+EndCmp
+
+BeginCmp
+TimeStamp = 614e7e3e-69f0-445d-8255-62e2ace28aac
+Path = /a52e456d-77d8-4000-832b-f0b15ef8fbdf
+Reference = D3;
+ValeurCmp = SS14;
+IdModule  = Diode_SMD:D_SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = 64f70733-98ba-4280-82b9-de9d6da884bf
+Path = /1b4987fc-9737-4ae2-85cd-52134776f9fc
+Reference = R13;
+ValeurCmp = 470;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6959023d-5a2d-4af1-9236-66564798859c
+Path = /d142cccb-0f31-46aa-a65c-eb9754cc1feb
+Reference = C24;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a6404e1-e542-435b-95ea-f9974bc8cc41
+Path = /644eed31-ba4e-493c-978f-59ae923d06e4
+Reference = Q4;
+ValeurCmp = AO3401A;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e7dd231-cd3f-4848-be98-a13b1f01a9fa
+Path = /9e682375-e0f2-490a-be1d-c06e3aed4d67
+Reference = R34;
+ValeurCmp = 1M;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6f10aea2-79ce-426b-961c-e7dad7eb8474
+Path = /bf1c9ac5-a387-42bf-b02f-6732a86d4988
+Reference = R26;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7160ebbb-4507-4043-8c35-6d86ef06c1f1
+Path = /474ef841-16b1-49a6-92bf-6a284f0ef6a0
+Reference = R1;
+ValeurCmp = 560;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 74d2e596-3fa5-4fe4-b5d5-38ee4732ab2e
+Path = /b289c14d-47c3-45a5-ad72-910e44988737
+Reference = Q5;
+ValeurCmp = AO3401A;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 7529b73a-f636-46d6-a4b1-543e8187283a
+Path = /53f72ecc-dbe6-46f6-a633-fefd2c723213
+Reference = C18;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 77bb9395-b7ce-4380-8497-75af634c5c73
+Path = /4252d55a-6d6e-47db-9373-68cc4e54b563
+Reference = C28;
+ValeurCmp = 2.2nF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 79b19df5-ddbd-4064-a872-c90ea6c84fd7
+Path = /df09e6ef-8324-48be-9100-3a21efb03c69
+Reference = R21;
+ValeurCmp = 330;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b472b14-cea5-4cc1-8d0a-d55fac4daa2e
+Path = /119e83f5-eb69-4e79-ad2f-55a6e3e4e8b0
+Reference = C45;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7b69bf3d-cf27-44bb-9c42-6881922f0645
+Path = /c7bf5fa5-fcdb-4145-a3f7-1e20f946c576
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7ea46273-067f-4017-bd96-6e91c9f081a5
+Path = /605addb2-21a1-41ba-8e4b-f8898fac6507
+Reference = USB1;
+ValeurCmp = MICRO QTZB5.0;
+IdModule  = easyeda2kicad:MICRO-USB-SMD_MICRO-QTZB5.0;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f3a4913-af4d-4289-87e3-d840fbc27cd6
+Path = /855d8652-c65b-4198-bd80-72a98106c4f0
+Reference = SWRST1;
+ValeurCmp = RST;
+IdModule  = Butm:MaskBtm4mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7fc716a1-18c5-4a3a-b8f5-8b1984b37e18
+Path = /7a4ed3d7-2c11-4cc1-851f-67a574e2d304
+Reference = C27;
+ValeurCmp = 2.2nF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 834d48e1-731e-409c-b9fb-054fc81ad1fe
+Path = /06a681b0-32d8-42f4-a2fd-25e7218baa95
+Reference = R28;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8558f1f7-786f-452c-a7b8-3bca35779b8b
+Path = /e0581672-fcc4-452d-ad7f-da9397f5de8e
+Reference = C31;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 88610b12-6ab9-4810-900e-a623ca51df5d
+Path = /6684960d-9d8f-4287-9a61-86f42a31a211
+Reference = X2;
+ValeurCmp = 12MHz;
+IdModule  = easyeda2kicad:CRYSTAL-SMD_4P-L2.5-W2.0-BL-A;
+EndCmp
+
+BeginCmp
+TimeStamp = 8b091c55-220e-4ba8-94cb-babee5b0f2d4
+Path = /38025ff7-fbe4-4591-97f5-90aca7f03eba
+Reference = R16;
+ValeurCmp = 470;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8dc2b2b9-3f63-4104-9f65-fe30c8f66763
+Path = /cb8e64cb-508e-48ef-a16b-49e8407e14a1
+Reference = C6;
+ValeurCmp = 4.7uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8f9b1f8d-abd4-4bcb-a436-bde06cf73092
+Path = /110102e6-b17a-4f35-b434-ead430740eff
+Reference = U6;
+ValeurCmp = CH340K;
+IdModule  = Package_SO:SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 912987dc-90c0-4fce-8253-dd312d2cf962
+Path = /3da798b7-2d28-4d1b-bf3e-d58668525bd0
+Reference = U8;
+ValeurCmp = CH334R;
+IdModule  = Package_SO:QSOP-16_3.9x4.9mm_P0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9185f79a-e0e8-46f7-b20b-b16b2fb43a15
+Path = /a3d7e969-6099-42d3-833b-bdff79f203b0
+Reference = R19;
+ValeurCmp = 0;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 94467997-03ae-4952-9e6b-2eba802ee28f
+Path = /aede27d4-202e-4dad-8678-50da6cc169d6
+Reference = C17;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 947eb115-2489-41f1-92fc-727aba9dd72c
+Path = /551140f4-0130-4c67-b0ab-cdf470ebd82f
+Reference = R10;
+ValeurCmp = 15k;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 94e72f19-3fba-4ddf-951c-4063e654215e
+Path = /f3cd7e76-1858-45e1-aded-8bc387d9e8f0
+Reference = D5;
+ValeurCmp = SS34;
+IdModule  = Diode_SMD:D_SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = 95f214e3-2fe1-4fe8-a0af-0a3ee4c62b79
+Path = /a9576eb6-7b9a-438c-ab49-92b01b2a7036
+Reference = C2;
+ValeurCmp = 4.7uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 97ddf491-a516-441b-a56c-21bedba9ec11
+Path = /df7125d8-6bf8-4f19-ad19-940bc376e2a3
+Reference = BAT-;
+ValeurCmp = ~;
+IdModule  = TestPoint:TestPoint_Pad_2.0x2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9df2a1cb-f79c-4778-b5ea-967c09f2521a
+Path = /08b54c03-da5c-44f2-b28b-40228a71862a
+Reference = R33;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 9f335393-2349-442f-bd02-349aa5775d32
+Path = /b5e79f5e-b9b2-4d71-8d33-74a720706f60
+Reference = L5;
+ValeurCmp = 10uH_5x5mm_1.0A;
+IdModule  = SparkFun-Coil:Inductor_4.7x4.7mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a4063d3e-eacd-421a-90a3-17d38fe6048a
+Path = /90e1aaf3-d1bb-4e7a-8c75-229325c9a614
+Reference = R15;
+ValeurCmp = 470;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a7e4fa6a-53f3-4b69-b183-047aa395da12
+Path = /aab52803-ac5c-4279-9419-bf4bb82d63e5
+Reference = U12;
+ValeurCmp = PCF8575DBR;
+IdModule  = Package_SO:SSOP-24_5.3x8.2mm_P0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = aea220df-b4f7-4802-b82f-5e85f024c7b2
+Path = /1ed70e03-b40b-4a76-8147-a2660f746d01
+Reference = R22;
+ValeurCmp = 330;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = af5335b1-c766-4dce-91ce-b58995da0a0c
+Path = /80b541c9-8b0c-4920-ac1a-2160a99a3882
+Reference = C32;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b2789b81-f67b-4394-b6ca-c78778246bcd
+Path = /56235a13-0c82-4825-915a-38152a7fee59
+Reference = C33;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b6a0aaff-65f0-46a2-81e5-f90050aa2e11
+Path = /755e6556-51be-422c-a861-325b5a96234d
+Reference = D11;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = b8b50913-322c-41d9-a7bc-e7d24af23333
+Path = /aa787b1d-c29b-466f-9ae4-557958c28556
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = SparkFun-LED:LED_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bccdd531-6b23-4421-a0a3-b8e153a3b8f3
+Path = /3e80816c-cdde-4c53-b43c-3b7c4a331690
+Reference = U13;
+ValeurCmp = ESP32-S3-WROOM-1U;
+IdModule  = RF_Module:ESP32-S3-WROOM-1U;
+EndCmp
+
+BeginCmp
+TimeStamp = bd7454cb-ed69-4b92-9941-df01e91029e6
+Path = /bb942ddd-327b-4337-87bd-fae11aeb9b7d
+Reference = C19;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = be121af3-4464-4ae9-bc93-14bbd6edd9bd
+Path = /031e416c-734c-4ab2-910d-568fc0f3667d
+Reference = R4;
+ValeurCmp = 0;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = be5eb376-d498-46f3-8807-051698f0a271
+Path = /f4a2ca38-fe51-4ace-889d-f31c5384cde3
+Reference = SH1;
+ValeurCmp = ~;
+IdModule  = SH1122:SH1122_FPC;
+EndCmp
+
+BeginCmp
+TimeStamp = bfe00ff0-0283-469b-9560-e56701f71147
+Path = /5a0c3ff7-6f60-4890-80f0-7c03509c183b
+Reference = C43;
+ValeurCmp = 10uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c1a50eaf-2d88-4d86-bec0-8d60e9d2d00b
+Path = /fa109974-1a64-4746-a624-4fe6e4b774b5
+Reference = U11;
+ValeurCmp = TP5400_C2891434;
+IdModule  = easyeda2kicad:ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP;
+EndCmp
+
+BeginCmp
+TimeStamp = c3c63f46-cc46-43f1-8a1d-d36e4e23906c
+Path = /c8ebc360-f70f-49d2-825f-4d9d33ebf6f6
+Reference = Q1;
+ValeurCmp = MMBT3904;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = c578491f-3d5d-4177-8ecd-f0905323ef67
+Path = /f6ebf02e-9830-4638-9f3f-f7217dff84a1
+Reference = C49;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c628475f-a50b-429f-9d23-62df03e9122c
+Path = /5a82d6f2-8d45-4b5e-b1f2-7979bc4959d5
+Reference = R14;
+ValeurCmp = 470;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c7c58d10-8ec7-4f1d-848e-ff460ac75165
+Path = /1ac800d0-8568-4219-a5b2-1b42f53328be
+Reference = R35;
+ValeurCmp = 1M;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ca4bae38-033e-48db-9bb5-f9cd3d270e4b
+Path = /e16d535d-3ef9-40e6-b36a-c8eb41ab57dd
+Reference = C5;
+ValeurCmp = 4.7uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = cc679ccc-307f-4aba-80d2-74e7720ec8b6
+Path = /47ee1744-37b6-4006-9954-0057e64076bf
+Reference = U2;
+ValeurCmp = TPS61040DBV;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = cfd326df-3978-422e-b8c2-4d9b5a54327b
+Path = /13329cb6-df62-4342-a498-e4a5938d23f8
+Reference = SWBOOT1;
+ValeurCmp = BOOT;
+IdModule  = Butm:MaskBtm4mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d176ef51-695d-47fa-aae1-116f80a2f576
+Path = /f8b62002-900d-4224-ab64-13388eaa258f
+Reference = C26;
+ValeurCmp = 4.7pF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d1aa86e4-52a5-4ead-85be-621df3082b14
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = d4168a3f-a2a3-47ad-a716-2bbb6f75fca0
+Path = /7de625c7-bf71-46fa-b050-7891dc620919
+Reference = R31;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d651474f-e878-47a6-b502-b956ff2236a1
+Path = /ce4eb742-78ad-40a7-8550-73cb1a6fb610
+Reference = Q2;
+ValeurCmp = MMBT3904;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = d6b894bb-f907-4455-b46a-fc60c1e5fe8d
+Path = /480f8b64-ef5f-42e1-a7c7-e1cdf006c729
+Reference = C39;
+ValeurCmp = 47uF;
+IdModule  = SparkFun-Capacitor:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d782aa30-4db3-486e-a346-7f6ebcb0dc96
+Path = /37030247-d5c1-47a0-9f73-486c85584efa
+Reference = D6;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = d786440e-d53d-47a6-8bfa-6885b550a8c8
+Path = /d8ea6dba-5ba6-47e4-afc9-2c78bf151586
+Reference = C36;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d9c8dba8-a9ce-4a27-a997-30691cba3c08
+Path = /d0285abd-71d5-4299-b4d7-83c44758d177
+Reference = C38;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = dda51ebe-35f9-4531-a204-cc4b4735120f
+Path = /bd09c6a3-878f-4bf4-aeda-16cb07c05ca6
+Reference = C50;
+ValeurCmp = 22uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = de029c90-a04e-48ae-9d98-76e609509408
+Path = /53ca8ef6-c0f6-4ab1-97d7-ecf22fae5978
+Reference = R11;
+ValeurCmp = 205K;
+IdModule  = SparkFun-Resistor:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e1196608-e6db-41a1-b32c-e91fad446eda
+Path = /654d9208-5f7f-4adb-a32a-37fd05118241
+Reference = C21;
+ValeurCmp = 0.1uF;
+IdModule  = SparkFun-Capacitor:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e14dd173-0769-4cce-b31f-97945f0a0761
+Path = /06d03f66-5d4f-44d3-aa8b-d343ea74a41e
+Reference = C30;
+ValeurCmp = 2.2uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e29c5705-dc1c-4d20-b2d3-c2c996f19251
+Path = /4dcd4459-8c78-4470-a7a8-173f9b66eaf8
+Reference = C37;
+ValeurCmp = 1uF;
+IdModule  = SparkFun-Capacitor:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = eaffceba-15e9-440b-ad02-0dbd9576281a
+Path = /489ddf10-3315-478c-8af9-b90132bc712c
+Reference = Y1;
+ValeurCmp = 32.768kHz;
+IdModule  = SparkFun-Clock:Crystal_SMD_3.2x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ee5c7947-176e-4e69-8465-7c50bfde535f
+Path = /51e5a126-298e-42fd-87c1-1c0e8b2e5f1d
+Reference = R27;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = fb77a68a-3a22-45b6-bcf1-63e6846ebc32
+Path = /d7089df3-6fad-4735-9a74-43d62c901e38
+Reference = D9;
+ValeurCmp = LESD8D3.3CAT5G;
+IdModule  = Diode_SMD:D_SOD-882;
+EndCmp
+
+BeginCmp
+TimeStamp = fb7dbf08-0783-4072-a442-04ca5645d686
+Path = /53ac26e8-c448-442c-bce6-83ea8924d61a
+Reference = R29;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = fd6e116a-ea7e-4083-b86b-2338211242c4
+Path = /7c48e015-0904-4683-b7d0-528bdd440ba3
+Reference = R36;
+ValeurCmp = 10k;
+IdModule  = SparkFun-Resistor:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 04fdb4d4-8814-4a86-a63c-1120d4264c5a
+Path = /ef7f5b94-5118-4bfb-9192-e4735166f96d
+Reference = SW35;
+ValeurCmp = SW_KL;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 09d048b7-5679-471c-a93f-cec8aae522b3
+Path = /237f8674-c4d0-4201-a17a-969c1ecc0bc1
+Reference = SW18;
+ValeurCmp = SW_KW;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ad94195-7520-45d8-b080-adf438872a1a
+Path = /0a3b5f65-6024-4df1-b81d-c4a3c6c22a9b
+Reference = SW52;
+ValeurCmp = SW_CALENDAR;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 0ecb4670-cae9-4bb7-afcd-74c52871513c
+Path = /df8164cc-6344-43f0-b337-8673563ff432
+Reference = SW51;
+ValeurCmp = SW_REMARK;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 112a70bb-96f2-4822-b73c-536803c8d423
+Path = /18b722a5-1d34-4737-8c0a-af30a352dea8
+Reference = SW50;
+ValeurCmp = SW_SPACE;
+IdModule  = Butm:MaskBtm5mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 15835c71-a04c-449b-a3bb-e92a34e8967b
+Path = /25816448-bc38-4813-903b-36dfe7dc297c
+Reference = SW5;
+ValeurCmp = SW_UP2;
+IdModule  = Butm:MaskBtm6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 15fd128b-1578-4c69-a76f-0380b59fdf38
+Path = /cf217bad-7f50-4211-92dd-f0cae98361c4
+Reference = SW42;
+ValeurCmp = SW_KM;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 16e9152f-8d3b-40bb-ab9d-d0a99cad0bc1
+Path = /eccd1b16-a9a6-494c-9265-7c794c02c39a
+Reference = SW4;
+ValeurCmp = SW_RIGHT;
+IdModule  = Butm:MaskBtm6mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 1a62286f-aef2-468b-b3d7-7b40da41efcd
+Path = /faacd817-b378-4371-80ee-adb8895653d7
+Reference = SW53;
+ValeurCmp = SW_MODE;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 1d2a3433-9a1c-4444-bcde-283a4f63dfd9
+Path = /4479c090-7df9-45fd-95a4-0e2f219149ff
+Reference = SW11;
+ValeurCmp = SW_K5;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 1dcd0593-20c5-42ba-abf7-04f5f2a55bcb
+Path = /ff9a6a19-c6c1-451c-bdb1-482352687a82
+Reference = SW32;
+ValeurCmp = SW_KH;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 20688185-792b-4f84-94a0-9aeed12dcdc0
+Path = /b25c908c-c474-46f6-ba0a-b5f8666105e7
+Reference = SW29;
+ValeurCmp = SW_KD;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 20d6c811-c0e4-406a-84de-06e970d00584
+Path = /892313b6-179b-4b62-a045-64a4548bfa89
+Reference = SW46;
+ValeurCmp = SW_CE(IO0);
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 33e6e3f9-ccef-459f-bb5e-e4c440b1fd51
+Path = /4b0830fb-3783-43dd-91d0-a1d9c019b919
+Reference = SW12;
+ValeurCmp = SW_K6;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 394f2d25-c857-422c-a22c-476b46709336
+Path = /105bd50a-9ae1-4cbc-a519-eb63f883e9e3
+Reference = SW8;
+ValeurCmp = SW_K2;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 3a2970f7-4e7f-4ea4-90c8-8ef6bc9051ff
+Path = /09be119e-1326-4cc4-ae88-f1efc1213bc0
+Reference = SW26;
+ValeurCmp = SW_KP;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 3ea098ef-9c03-4436-b8e0-e5a33d07ce12
+Path = /f2dcd136-9c9d-456c-ae51-5c7c1f79a01f
+Reference = SW33;
+ValeurCmp = SW_KJ;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 44275964-cd66-4852-949b-1b49f9ac0950
+Path = /3f0aa0eb-c8c2-4afa-a7f8-9806ced55740
+Reference = SW44;
+ValeurCmp = SW_KDOT;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 454d8309-f5f2-4bec-acf7-8455fbc6fde9
+Path = /0e209fc2-5497-4407-8c7a-0116166fde91
+Reference = SW28;
+ValeurCmp = SW_KS;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 497de72e-a9ed-44ef-a641-7d3963299e4f
+Path = /44ac4a45-c911-4cef-816e-656a5a062d4c
+Reference = SW43;
+ValeurCmp = SW_KCOM;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4c215c23-fe29-46e8-abe3-bcf79995a5f3
+Path = /fb2ff464-2c05-4ed7-bc44-d6620bf17d19
+Reference = SW22;
+ValeurCmp = SW_KY;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e307864-2378-4558-b324-de77ae2db530
+Path = /492bfd50-1c62-4891-8a46-2d97841f01a2
+Reference = SW49;
+ValeurCmp = SW_MCK;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5da7c132-75fc-4c3d-9f34-9e0f0cfdc160
+Path = /b4b6f729-b0bd-49dc-afe5-38adfee67225
+Reference = SW36;
+ValeurCmp = SW_KZ;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5ff6ddf0-f7fc-4758-9609-8f0879c0a727
+Path = /7670d209-0341-49d2-ba42-9201ee6c0985
+Reference = SW2;
+ValeurCmp = SW_UP;
+IdModule  = Butm:MaskBtm6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 62dbfc88-e0a8-4fb3-b425-49a6d2b78876
+Path = /31eff708-f845-4f6f-8d03-b8e720c278a2
+Reference = SW13;
+ValeurCmp = SW_K7;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 66e25778-3af4-44e9-8094-745e6a804b25
+Path = /0cba8454-1861-4a2a-84f1-7bf0a406c004
+Reference = SW7;
+ValeurCmp = SW_K1;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 6884b7e0-42ae-4804-974d-0870597a5733
+Path = /483c5a3f-d133-43a3-be6f-853d23eaafa0
+Reference = SW54;
+ValeurCmp = SW_ENTER;
+IdModule  = Butm:MaskBtm5mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 708d9c48-f961-4d0c-86de-186694723853
+Path = /0f48c161-73eb-44db-85b4-48e2fd99b212
+Reference = SW37;
+ValeurCmp = SW_KX;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 7117b0d6-6629-4a80-8c3e-0a61008747c9
+Path = /44dd15a3-9736-4cb9-8b28-7d2c6fffe6be
+Reference = SW1;
+ValeurCmp = SW_LEFT;
+IdModule  = Butm:MaskBtm6mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 7700adc0-5f7c-440b-bcfe-f1eacb9e16bc
+Path = /260ddda3-217b-49c1-9417-befddcdd00b5
+Reference = SW16;
+ValeurCmp = SW_K0;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = 7d55bc23-9be8-47de-b688-f91b75eb33f1
+Path = /a16bd311-47c4-41e8-a102-0625dae5abce
+Reference = SW39;
+ValeurCmp = SW_KV;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 82aae762-5a8d-48a7-9308-39ba88f52dba
+Path = /b42ec1e0-e9ae-4675-98e8-5fa28f63c9a5
+Reference = SW6;
+ValeurCmp = SW_DOWN2;
+IdModule  = Butm:MaskBtm6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 87163f95-4258-4202-97ac-ea95e7086a32
+Path = /c3f6e095-a240-4538-841a-223e879c3ad8
+Reference = SW24;
+ValeurCmp = SW_KI;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 876fcdf5-62f8-43be-9a57-00f98bacc546
+Path = /3d9926f8-aa01-4f71-8438-209732c54cab
+Reference = SW31;
+ValeurCmp = SW_KG;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 89438de6-2162-48be-9c69-913fe3322de7
+Path = /1776d7c4-e64c-4725-9f8c-08043af9d726
+Reference = SW20;
+ValeurCmp = SW_KR;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9bbeae26-e560-41e0-aef7-44f586648299
+Path = /d5e2f309-4539-44dd-ae71-e95802a3d6a7
+Reference = SW17;
+ValeurCmp = SW_KQ;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9dd4dcb4-0d87-44af-bb94-3e68c13fc764
+Path = /c4e0ea2e-60f2-4e28-9029-d006890f57b6
+Reference = SW23;
+ValeurCmp = SW_KU;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = a7f1bfcf-a650-4e9b-989f-1d26bb24b381
+Path = /0591cf24-f50a-4549-82a9-7d7575e57df7
+Reference = SW41;
+ValeurCmp = SW_KN;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = b09f5d90-e245-4cb7-ae83-0b3a952e300e
+Path = /1c887a0d-661e-4a9b-9175-b93d2c290d8f
+Reference = SW38;
+ValeurCmp = SW_KC;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bb85ec7c-2ba3-4af6-87fb-8dacb93e669a
+Path = /eabed9b6-1a09-48ac-a480-bff5ea7eb34a
+Reference = SW45;
+ValeurCmp = SW_SHIFT;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bc09135a-65d9-4e37-b215-b70d01dc35f6
+Path = /4a38a2ae-34ac-4d02-9603-05677e9c716f
+Reference = SW19;
+ValeurCmp = SW_KE;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = bcd05985-156a-4fd9-bf48-6a6e0f41302f
+Path = /088426ba-5aaa-41ad-a7e1-8c38980c31e5
+Reference = SW14;
+ValeurCmp = SW_K8;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = cc17e998-cf5e-4d34-b762-21e911126502
+Path = /28cf1ff4-11ad-4d3c-942b-c6468bb98715
+Reference = SW21;
+ValeurCmp = SW_KT;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = cc5537f9-b74c-4f17-9fbb-6164c56093e0
+Path = /1f2de6a2-177f-4b93-904c-43bebb716ed5
+Reference = SW47;
+ValeurCmp = SW_OFF;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d39b63dd-e02d-4f63-a393-32fcb383b5a9
+Path = /3116995d-72ae-4ad5-a68b-7ec8bf74954b
+Reference = SW30;
+ValeurCmp = SW_KF;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = d62f1ac3-92dd-4a6e-b122-2148c9a4aa43
+Path = /f118ddc7-8813-4b82-90b7-6cd320f56022
+Reference = SW9;
+ValeurCmp = SW_K3;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = daf43b8c-a895-4202-aa34-1146a24e90f7
+Path = /cb42a479-eab4-472d-8963-06ff3124bf6c
+Reference = SW10;
+ValeurCmp = SW_K4;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = dc7cd37e-0c45-486f-9089-8f28e5e1cfb7
+Path = /b002c3d0-02f5-4546-b0bd-01ae131dc8a2
+Reference = SW25;
+ValeurCmp = SW_KO;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = dd0f0251-a77a-43cc-b20e-76fe9f071c68
+Path = /418d59d6-fde0-475b-a8c1-c1dc48bcb0df
+Reference = SW3;
+ValeurCmp = SW_DOWN;
+IdModule  = Butm:MaskBtm6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = e1c7c738-c47f-4a35-8647-a43cc176c4cd
+Path = /302b44b3-4479-4ae1-9a6f-e30ea89edcae
+Reference = SW34;
+ValeurCmp = SW_KK;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ea9cd885-1bc0-41fb-b9e4-5f21a8e79ac0
+Path = /7da45735-9563-4c31-96c3-6f34c6c448a9
+Reference = SW40;
+ValeurCmp = SW_KB;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = efd84754-b4aa-4b1e-b8a9-b21a765227d5
+Path = /13776bd8-96dd-4257-9cbc-a72276a6e527
+Reference = SW15;
+ValeurCmp = SW_K9;
+IdModule  = Butm:MaskBtm4mmBh;
+EndCmp
+
+BeginCmp
+TimeStamp = f110fc43-cb0a-42b5-b25d-6b41a66ce1e5
+Path = /f9c88bdf-7723-45d7-b91d-6fbdf8d767f1
+Reference = SW48;
+ValeurCmp = SW_SECRET;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = f4e04b9a-ce4d-4c00-96db-07f54ca37484
+Path = 
+Reference = ESP_LOGO;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = f90b143d-42df-4ffb-8bb7-02dacd549576
+Path = /d52ea8ec-2529-4cd7-acc7-8636ab53b4e0
+Reference = SW27;
+ValeurCmp = SW_KA;
+IdModule  = Butm:MaskBtm5mm;
+EndCmp
+
+EndListe
