@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.5-8.0.5-0~ubuntu24.04.1"
     },
-    "CreationDate": "2024-10-22T00:13:02+08:00"
+    "CreationDate": "2024-10-27T15:11:14+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "EL6170_Pro_Max_Plus-F_Cu.gtl",
+      "Path": "EL6170_Pro_Max_Plus-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-B_Cu.gbl",
+      "Path": "EL6170_Pro_Max_Plus-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-F_Paste.gtp",
+      "Path": "EL6170_Pro_Max_Plus-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-B_Paste.gbp",
+      "Path": "EL6170_Pro_Max_Plus-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-F_Silkscreen.gto",
+      "Path": "EL6170_Pro_Max_Plus-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-B_Silkscreen.gbo",
+      "Path": "EL6170_Pro_Max_Plus-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-F_Mask.gts",
+      "Path": "EL6170_Pro_Max_Plus-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-B_Mask.gbs",
+      "Path": "EL6170_Pro_Max_Plus-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "EL6170_Pro_Max_Plus-Edge_Cuts.gm1",
+      "Path": "EL6170_Pro_Max_Plus-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

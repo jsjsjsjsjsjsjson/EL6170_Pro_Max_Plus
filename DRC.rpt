@@ -1,5 +1,5 @@
 ** Drc report for EL6170_Pro_Max_Plus.kicad_pcb **
-** Created on 2024-10-21T23:59:51+0800 **
+** Created on 2024-10-27T15:10:12+0800 **
 
 ** Found 477 DRC violations **
 [solder_mask_bridge]: 底层阻焊开窗区域与不同网络的项目相连
@@ -1017,15 +1017,11 @@
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(150.0000 mm, 93.0000 mm): B.Cu 上 SW12 的焊盘 1 [KEY_COL3]
-    @(150.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
-[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
-    Rule: 网络类 'Default'; error
-    @(150.0000 mm, 93.0000 mm): B.Cu 上 SW12 的焊盘 1 [KEY_COL3]
     @(147.0000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
-    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
-    @(152.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(150.0000 mm, 93.0000 mm): B.Cu 上 SW12 的焊盘 1 [KEY_COL3]
+    @(150.9500 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
@@ -1038,6 +1034,10 @@
     Rule: 网络类 'Default'; error
     @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
     @(150.0000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(150.0000 mm, 88.6000 mm): B.Cu 上 SW12 的焊盘 2 [KEY_ROW1]
+    @(152.0000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(200.0000 mm, 93.0000 mm): B.Cu 上 SW8 的焊盘 1 [KEY_COL7]
@@ -1149,11 +1149,11 @@
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
-    @(137.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+    @(135.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
-    @(135.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+    @(137.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(137.5000 mm, 88.6000 mm): B.Cu 上 SW13 的焊盘 2 [KEY_ROW1]
@@ -1458,14 +1458,6 @@
     Rule: 网络类 'Default'; error
     @(112.5000 mm, 93.0000 mm): B.Cu 上 SW15 的焊盘 1 [KEY_COL6]
     @(109.5000 mm, 93.0000 mm): B.Cu 上的 线段 [<no net>]
-[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
-    Rule: 网络类 'Default'; error
-    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
-    @(112.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
-[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
-    Rule: 网络类 'Default'; error
-    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
-    @(114.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.1022 mm)
     Rule: 网络类 'Default'; error
     @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
@@ -1474,6 +1466,14 @@
     Rule: 网络类 'Default'; error
     @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
     @(110.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(112.5000 mm, 89.3000 mm): B.Cu 上的 线段 [<no net>]
+[clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
+    Rule: 网络类 'Default'; error
+    @(112.5000 mm, 88.6000 mm): B.Cu 上 SW15 的焊盘 2 [KEY_ROW1]
+    @(114.5000 mm, 90.0000 mm): B.Cu 上的 弧线 [<no net>]
 [clearance]: 间距违规 (网络类 'Default' 间距 0.2000 mm; 实际 0.0000 mm)
     Rule: 网络类 'Default'; error
     @(189.5500 mm, 130.4500 mm): B.Cu 上 SW48 的焊盘 1 [KEY_COL6]
